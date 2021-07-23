@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SteelPlating.label>стальная обшивка</SteelPlating.label>
+  <SteelPlating.description>Простая концепция: добавьте больше брони своим андроидам, потому что схемы не совсем пуленепробиваемые.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</SteelPlating.description>
+
+  <PlasteelPlating.label>пласталевая обшивка</PlasteelPlating.label>
+  <PlasteelPlating.description>Путем добавления пласталевой обшивки к слабым местам андроида; это простое дополнение должно значительно увеличить устойчивость к повреждениям андроида.\n\nМожет быть установлено на\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</PlasteelPlating.description>
+
+  <CompositePlating.label>композитная обшивка</CompositePlating.label>
+  <CompositePlating.description>Эта обшивка действует так же, как любая другая, но с повышенной устойчивостью к повреждениям благодаря его сложной природе.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</CompositePlating.description>
+
+
+  <!-- Utility Parts -->
+
+  <HydraulicFrame.label>гидравлический каркас</HydraulicFrame.label>
+  <HydraulicFrame.description>Этот набор содержит достаточно компонентов для улучшения каркаса андроида, не вызывая серьезной перестройки, увеличивая грузоподъемность за счет использования нескольких мощных гидронасосов. Хоть он и крепок, все равно ограничивает владельца в движениях.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</HydraulicFrame.description>
+
+  <HydraulicLeg.label>гидравлическая нога</HydraulicLeg.label>
+  <HydraulicLeg.description>Грубая замена ноги состоящая из 2 сильных гидравлических насосов, позволяющих увеличить грузоподъемность за счет подвижности.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</HydraulicLeg.description>
+
+  <HydraulicArm.label>гидравлическая рука</HydraulicArm.label>
+  <HydraulicArm.description>Грубая замена руки состоящая из 2 мощных гидравлических насосов, позволяющих увеличить грузоподъемность за счет ловкости.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</HydraulicArm.description>
+
+  <MiningArm.label>шахтёрская рука</MiningArm.label>
+  <MiningArm.description>Эта "рука" не намного больше, чем большая, наваренная пласталевая дрель, широко используемая во время астероидной лихорадки 22-го века. Она отлично справляется с горными работами, но не с более сложными операциями.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</MiningArm.description>
+
+  <BasicReplacementArm.label>базовая замена руки</BasicReplacementArm.label>
+  <BasicReplacementArm.description>Относительно простая рука, которая обычно производится массово, чтобы обслуживать целые армии дроидов на враждующих планетах.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</BasicReplacementArm.description>
+
+  <BasicReplacementLeg.label>базовая замена ноги</BasicReplacementLeg.label>
+  <BasicReplacementLeg.description>Относительно простая нога, которая обычно производится массово, чтобы обслуживать целые армии дроидов на враждующих планетах.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</BasicReplacementLeg.description>
+
+  <CrudeHeatsink.label>примитивный радиатор</CrudeHeatsink.label>
+  <CrudeHeatsink.description>Очень грубый радиатор, сделанный из металлолома и грубо расположенный в блоке.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</CrudeHeatsink.description>
+
+  <LightReceivingDiode.label>светопроводящий диод</LightReceivingDiode.label>
+  <LightReceivingDiode.description>Простой, для обнаружения света, этот диод действует как простой переключатель, который либо открыт, либо закрыт в зависимости от того достигнет ли его свет или нет.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</LightReceivingDiode.description>
+
+  <FlimsyCoolantPump.label>хрупкий насос хладагента</FlimsyCoolantPump.label>
+  <FlimsyCoolantPump.description>Этот насос хладагента работает через дифференциальное давление; которое не является плохим механизмом для работы, но способность этого насоса поддерживать давление слишком сомнительна.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</FlimsyCoolantPump.description>
+
+  <SmallBatteryPack.label>малый блок батарей</SmallBatteryPack.label>
+  <SmallBatteryPack.description>Небольшой блок батарей, присоединенных вплотную для получения максимального напряжения. Что неудивительно; все еще не мало.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</SmallBatteryPack.description>
+
+  <TubeSealantTank.label>трубчатый герметик</TubeSealantTank.label>
+  <TubeSealantTank.description>Маленький резервуар, в котором содержится гель, подобный жидкости, способный закупоривать отверстия в механизмах, он течет через трубки андроида, в котором он подключен.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</TubeSealantTank.description>
+
+  <LowPowerTransformer.label>маломощный конвертер клетчатки</LowPowerTransformer.label>
+  <LowPowerTransformer.description>Этот биопроцессор очень неэффективен, он способен получать энергию из клетчатки органических веществ, оставляя многое, что можно было бы получить.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</LowPowerTransformer.description>
+
+  <BasicDCConverter.label>базовый преобразователь постоянного тока</BasicDCConverter.label>
+  <BasicDCConverter.description>Простой преобразователь переменного / постоянного тока, который эффективно работает только одним способом.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\n- Кибернетический юнит K9\n- юнит M.U.F.F</BasicDCConverter.description>
+
+  <AdvancedReplacementArm.label>мощная рука</AdvancedReplacementArm.label>
+  <AdvancedReplacementArm.description>Эта чрезвычайно жесткая и сильная рука была сделана для работы с различными тяжелыми рабочими нагрузками, такими как строительство, война или спасение после бедствия.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</AdvancedReplacementArm.description>
+
+  <AdvancedReplacementLeg.label>мощная нога</AdvancedReplacementLeg.label>
+  <AdvancedReplacementLeg.description>Эта модель ноги была разработана с учетом скорости; используемая главным образом олимпийскими андроидами бегунами из большинства миров утопий.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</AdvancedReplacementLeg.description>
+
+  <MultiSpectrumEye.label>многоспектральный глаз</MultiSpectrumEye.label>
+  <MultiSpectrumEye.description>Средний человеческий глаз и стандартные заводские глаза, используемые для андроидов, способны различать только видимый спектр света. Эта модель глаз очень отличается, позволяя андроиду переключаться между инфракрасным, рентгеновским и ультрафиолетовым спектром.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</MultiSpectrumEye.description>
+
+  <MultiLayerHeatsink.label>многослойный радиатор</MultiLayerHeatsink.label>
+  <MultiLayerHeatsink.description>Этот радиатор состоит из нескольких слоев материалов для максимальной теплопередачи.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</MultiLayerHeatsink.description>
+
+  <AdvancedCoolantInjector.label>передовой инжектор хладагента</AdvancedCoolantInjector.label>
+  <AdvancedCoolantInjector.description>Этот насос хладагента больше не работает в ритмических импульсах, а позволяет непрерывно впрыскивать охлаждающую жидкость под высоким давлением.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</AdvancedCoolantInjector.description>
+
+  <NanowireBattery.label>нанопроводной аккумулятор</NanowireBattery.label>
+  <NanowireBattery.description>Эта батарея работает по концепции сцепленных слоев материалов, таких как золото и пласталь, обеспечивая максимальную электрическую мощность и объем хранения.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5\</NanowireBattery.description>
+
+  <NaniteStorageDevice.label>устройство хранения нанитов</NaniteStorageDevice.label>
+  <NaniteStorageDevice.description>По сравнению с его предшественником; этот механизм ремонта позволяет быстрее работать и восстанавливаться от умышленных опасностей, таких как вредоносные вирусы, выпуская рой нанитов в хладагент андроида, к которому он принадлежит.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</NaniteStorageDevice.description>
+
+  <HighPowerTransformer.label>биореактор</HighPowerTransformer.label>
+  <HighPowerTransformer.description>Этот биопроцессор способен конвертировать большинство органических веществ в энергию с очень высокой эффективностью.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</HighPowerTransformer.description>
+
+  <HighPowerConverter.label>мощный конвертер</HighPowerConverter.label>
+  <HighPowerConverter.description>Этот мощный конвертер способен так эффективно преобразовывать и управлять свойствами электрических сигналов, что он кажется волшебным при своей мгновенной работе и эффективности преобразования в 99,9%.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</HighPowerConverter.description>
+
+  <BasicRearCounterweight.label>базовый противовес</BasicRearCounterweight.label>
+  <BasicRearCounterweight.description>Этот противовес состоит из небольшого стального шарика на конце стержня.\n\nМожет быть установлено на\n- Кибернетический юнит K9</BasicRearCounterweight.description>
+
+  <AdvRearCounterweight.label>гироскопический противовес</AdvRearCounterweight.label>
+  <AdvRearCounterweight.description>Этот противовес работает по гироскопическим принципам, что дает гораздо более высокую эффективность.\n\nМожет быть установлено на\n- Кибернетический юнит K9</AdvRearCounterweight.description>
+
+  <CrudeJawAndroid.label>грубая челюсть</CrudeJawAndroid.label>
+  <CrudeJawAndroid.description>Эта челюсть очень хлипкая, не очень быстрая и не очень сильная.\n\nМожет быть установлено на\n- Кибернетический юнит K9</CrudeJawAndroid.description>
+
+  <AdvJawAndroid.label>кибернетическая челюсть</AdvJawAndroid.label>
+  <AdvJawAndroid.description>Эта челюсть поддерживает безумный уровень силы, способная с легкостью раздавить человеческий череп, вы серьезно не захотите быть на принимающей части этой вещи.\n\nМожет быть установлено на\n- Кибернетический юнит K9</AdvJawAndroid.description>
+
+
+  <!-- Implants -->
+
+  <PositronMindImplant.label>позитронная обмотка</PositronMindImplant.label>
+  <PositronMindImplant.description>Этот имплант полностью перестраивает стандартную электронную проводку искусственного мозга. Заменяя её более эффективными позитронными проводящими путями.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</PositronMindImplant.description>
+
+  <SoldierMindImplant.label>обновление солдата</SoldierMindImplant.label>
+  <SoldierMindImplant.description>Этот имплант позволяет андроиду воспринимать траектории снарядов в реальном времени. Наряду с возможностью выполнять боевые симуляции внутри их собственного мозга как вторичные функции.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</SoldierMindImplant.description>
+
+  <BuilderMindImplant.label>хранилище чертежей</BuilderMindImplant.label>
+  <BuilderMindImplant.description>Позволяет одновременно хранить несколько чертежей, это сильно помогает андроиду со строительством.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</BuilderMindImplant.description>
+
+  <SurgeonMindImplant.label>имплантируемый трикодер</SurgeonMindImplant.label>
+  <SurgeonMindImplant.description>Этот трикодер был уменьшен в десять раз для подгонки в пределы мозга андроида. Эта версия позволяет андроиду сканировать биологических существ и точно определять диагноз с первого взгляда.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</SurgeonMindImplant.description>
+
+  <SpeedMindImplant.label>нейронные магистрали</SpeedMindImplant.label>
+  <SpeedMindImplant.description>Этот имплант перестраивает внутреннюю работу мозга, позволяя формировать «магистрали» для электронных сигналов.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</SpeedMindImplant.description>
+
+  <GeoMindImplant.label>геологическое хранилище</GeoMindImplant.label>
+  <GeoMindImplant.description>Этот имплант при установке; помогает андроиду визуальным интерфейсом при анализе горных пород, которые они копают. Показывая им в реальном времени обновления о том, как удалить камень и материал из него с максимальной эффективностью.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</GeoMindImplant.description>
+
+  <MechanicMindImplant.label>имплант инженерии</MechanicMindImplant.label>
+  <MechanicMindImplant.description>Этот имплант при установке; помогает андроиду во всех механических, сильно увеличивающих успех хирургии андроидов и эффективность разборки механоидов.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</MechanicMindImplant.description>
+
+  <CookingMindImplant.label>имплант кулинарии</CookingMindImplant.label>
+  <CookingMindImplant.description>При установке этот имплант будет автоматически загружать информацию о базовом состоянии здоровья и безопасности вместе с различными методами приготовления. Широко используется в ресторанах высокотехнологичных миров для VIP-гостей.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</CookingMindImplant.description>
+
+  <CharismaMindImplant.label>имплант харизмы</CharismaMindImplant.label>
+  <CharismaMindImplant.description>Независимо от того, хотите ли вы, чтобы ваши андроиды были более общительными или для того, чтобы у врача было хорошее умение обращаться с больным, этот имплант поможет. Позволяя андроиду легче замечать микро эмоции в голосе и языке тела.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</CharismaMindImplant.description>
+
+  <NegotiationMindImplant.label>имплант переговорщика</NegotiationMindImplant.label>
+  <NegotiationMindImplant.description>Обязательно устанавливается на андроидов телохранителей и андроидов специальных сил полиции. Этот имплант помогает в методах ведения переговоров через широкий спектр сценариев, будь то: допрос или простая торговля. Этот имплант стал довольно печально известен благодаря использованию в андроидах модели «Коннор».\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</NegotiationMindImplant.description>
+
+  <AnimalMindImplant.label>имплант животноводства</AnimalMindImplant.label>
+  <AnimalMindImplant.description>Простой имплант, который помогает всем андроидам в способности контролировать и приручать животных, будучи в состоянии заметить анималистические эмоции большинства существ на гораздо большей глубине.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</AnimalMindImplant.description>
+
+  <FarmingMindImplant.label>имплант фермерства</FarmingMindImplant.label>
+  <FarmingMindImplant.description>Этот имплант добавляет расширенный взгляд любому виду андроида, который очень сильно помогает в фермерстве, накладывая специальный пользовательский интерфейс, что отображает минералы в почве и здоровье сельскохозяйственных культур с помощью нескольких спектрографических сканирований, производимыми с орбиты глаза.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</FarmingMindImplant.description>
+
+  <BasicLaborMindImplant.label>базовый чип работы</BasicLaborMindImplant.label>
+  <BasicLaborMindImplant.description>Базовый чип работы; стандарт для большинства заводских андроидов, он научит андроида нескольким новым способам выполнения задач намного быстрее и эффективнее.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</BasicLaborMindImplant.description>
+
+
+  <!-- Secret -->
+
+  <EvolvingImplant.label>эволюционное обновление ИИ</EvolvingImplant.label>
+  <EvolvingImplant.description>Этот имплант позволяет текущему ИИ развиваться самому по себе. Со временем эта пешка будет постепенно становиться все более умственно сложной. Достижение максимальной эффективности во всем, что она делает.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</EvolvingImplant.description>
+
+  <CyberReplacementArm.label>кибернетическая рука</CyberReplacementArm.label>
+  <CyberReplacementArm.description>Эта рука использует смеси ультраткани, разрабатываемые только самыми передовыми обществами высокотехнологичных миров, для производства чрезвычайно сильного и прочного улучшения.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</CyberReplacementArm.description>
+
+  <CyberReplacementLeg.label>кибернетическая нога</CyberReplacementLeg.label>
+  <CyberReplacementLeg.description>Это улучшение ноги редко встречается за пределами лаборатории, её огромная скорость и прочность позволяют владельцу с лёгкостью поднимать больший вес и двигаться с головокружительной скоростью.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</CyberReplacementLeg.description>
+
+  <SecretHeatsink.label>тепловой эжектор</SecretHeatsink.label>
+  <SecretHeatsink.description>Этот модифицированный передовой радиатор создан с использованием материалов, которые эффективно рассеивают тепло на 99%, практически нивелируя тепло из вне.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</SecretHeatsink.description>
+
+  <MDEye.label>многомерный глаз</MDEye.label>
+  <MDEye.description>Этот глаз позволит владельцу переключить свое зрение между 3 измерениями, в которых они живут, и 4-м измерением, что позволяет им легко предсказать модели движения в реальном времени с большой точностью, так как он практически способен видеть будущие события, прежде чем они произойдут.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</MDEye.description>
+
+  <SecretCoolantPump.label>нулевая инъекция Кельвина</SecretCoolantPump.label>
+  <SecretCoolantPump.description>Этот инжектор хладагента позволяет использовать намного более высокий диапазон температуры хладагента, способный работать даже при близких к абсолютно нулевым температурам.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</SecretCoolantPump.description>
+
+  <SecretBatteryPack.label>ячейка ванометрической батареи</SecretBatteryPack.label>
+  <SecretBatteryPack.description>В попытке воссоздать ванометрическую генерацию энергии эта батарейная ячейка отчасти справляется с этим. Обладая значительно повышенной ёмкостью заряда, чем её предшественники.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</SecretBatteryPack.description>
+
+  <ArchotechNanites.label>наниты архотек</ArchotechNanites.label>
+  <ArchotechNanites.description>Это отсек нанитов архитек не до конца понимается даже самыми передовыми культурами. Известно, что они хорошо работают как рассеивающий ремонтный блок, очень очень хорошо.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</ArchotechNanites.description>
+
+  <MolecularDecomposer.label>молекулярный деструктор</MolecularDecomposer.label>
+  <MolecularDecomposer.description>Создание других форм механического усвоения пищи выглядит примитивным, этот реактор преобразует потребляемый материал на молекулярном уровне, увеличивая эффективность в два раза.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</MolecularDecomposer.description>
+
+  <QuantumConverter.label>преобразователь нулевой точки</QuantumConverter.label>
+  <QuantumConverter.description>Высокотехнологичный преобразователь энергии, способный передавать её по всему телу со 100% эффективностью благодаря своим свойствам точки нулевой энергии.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</QuantumConverter.description>
+
+  <CrudeHearingS.label>грубый слуховой датчик</CrudeHearingS.label>
+  <CrudeHearingS.description>Этот слуховой датчик просто действует как базовый интерпретационный имплант, позволяющий транслировать только самые основные звуки.\n\nМожет быть установлено на\n- Андроиды T1\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</CrudeHearingS.description>
+
+  <AdvHearingS.label>продвинутый слуховой датчик</AdvHearingS.label>
+  <AdvHearingS.description>TЭтот слуховой датчик точный до километра. Что делает его очень полезным при сборе слабых звуков.\n\nМожет быть установлено на\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</AdvHearingS.description>
+
+  <ArchHearingS.label>слуховой датчик архотек</ArchHearingS.label>
+  <ArchHearingS.description>Этот датчик является государственной линией в обнаружении звука, способный обнаруживать все частоты звука. Он имеет потенциально неограниченное обнаружение.\n\nМожет быть установлено на\n- Андроиды T4\n- Андроиды T5</ArchHearingS.description>
+
+  <SmellingAdvS.label>продвинутый датчик обоняния</SmellingAdvS.label>
+  <SmellingAdvS.description>Расширенные отверстия на этом датчике запаха не только позволяют обнаруживать запах, но и увеличивают вентилирование.\n\nМожет быть установлено на\n- Андроиды T2\n- Андроиды T3\n- Андроиды T4\n- Андроиды T5</SmellingAdvS.description>
+
+
+</LanguageData>

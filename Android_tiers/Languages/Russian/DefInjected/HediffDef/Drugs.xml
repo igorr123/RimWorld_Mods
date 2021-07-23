@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SGelhuman.label>структурный гель</SGelhuman.label>
+  <SGelhuman.stages.0.label>затрудненное дыхание</SGelhuman.stages.0.label>
+  <SGelhuman.stages.1.label>дрожь</SGelhuman.stages.1.label>
+  <SGelhuman.stages.2.label>лихорадка</SGelhuman.stages.2.label>
+  <SGelhuman.stages.3.label>конвульсии</SGelhuman.stages.3.label>
+  <SGelhuman.stages.4.label>заклинивание</SGelhuman.stages.4.label>
+
+
+  <!-- HediffAndroid -->
+
+  <SGelandroid.label>структурный гель</SGelandroid.label>
+  <SGelandroid.stages.0.label>небольшой эффект</SGelandroid.stages.0.label>
+  <SGelandroid.stages.1.label>убывающий эффект</SGelandroid.stages.1.label>
+  <SGelandroid.stages.2.label>умеренный эффект</SGelandroid.stages.2.label>
+  <SGelandroid.stages.3.label>эффективный</SGelandroid.stages.3.label>
+  <SGelandroid.stages.4.label>пик</SGelandroid.stages.4.label>
+
+  <Toxicated.label>интоксикация</Toxicated.label>
+  <Toxicated.stages.0.label>затрудненное дыхание</Toxicated.stages.0.label>
+  <Toxicated.stages.1.label>тошнота</Toxicated.stages.1.label>
+  <Toxicated.stages.2.label>болезненность</Toxicated.stages.2.label>
+  <Toxicated.stages.3.label>рвота</Toxicated.stages.3.label>
+  <Toxicated.stages.4.label>хроническая</Toxicated.stages.4.label>
+
+  <AFreezeandroid.label>полимерный антифриз</AFreezeandroid.label>
+  <AFreezeandroid.stages.0.label>небольшой эффект</AFreezeandroid.stages.0.label>
+  <AFreezeandroid.stages.1.label>убывающий эффект</AFreezeandroid.stages.1.label>
+  <AFreezeandroid.stages.2.label>умеренный эффект</AFreezeandroid.stages.2.label>
+  <AFreezeandroid.stages.3.label>эффективный</AFreezeandroid.stages.3.label>
+  <AFreezeandroid.stages.4.label>пик</AFreezeandroid.stages.4.label>
+
+  <MechSwarmandroid.label>рой механитов</MechSwarmandroid.label>
+  <MechSwarmandroid.stages.0.label>небольшой эффект</MechSwarmandroid.stages.0.label>
+  <MechSwarmandroid.stages.1.label>убывающий эффект</MechSwarmandroid.stages.1.label>
+  <MechSwarmandroid.stages.2.label>умеренный эффект</MechSwarmandroid.stages.2.label>
+  <MechSwarmandroid.stages.3.label>эффективный</MechSwarmandroid.stages.3.label>
+  <MechSwarmandroid.stages.4.label>пик</MechSwarmandroid.stages.4.label>
+
+  <Conversion.label>???</Conversion.label>
+  <Conversion.stages.0.label>спазмы</Conversion.stages.0.label>
+  <Conversion.stages.1.label>приступ</Conversion.stages.1.label>
+  <Conversion.stages.2.label>коллапс</Conversion.stages.2.label>
+  <Conversion.stages.3.label>превращение</Conversion.stages.3.label>
+
+  <FractalPillAndroid.label>фрактальное усиление</FractalPillAndroid.label>
+  <FractalPillAndroid.stages.0.label>незначительный эффект</FractalPillAndroid.stages.0.label>
+  <FractalPillAndroid.stages.1.label>I</FractalPillAndroid.stages.1.label>
+  <FractalPillAndroid.stages.2.label>II</FractalPillAndroid.stages.2.label>
+  <FractalPillAndroid.stages.3.label>III</FractalPillAndroid.stages.3.label>
+  <FractalPillAndroid.stages.4.label>IV</FractalPillAndroid.stages.4.label>
+  <FractalPillAndroid.stages.5.label>V</FractalPillAndroid.stages.5.label>
+  <FractalPillAndroid.stages.6.label>VI</FractalPillAndroid.stages.6.label>
+  <FractalPillAndroid.stages.7.label>VII</FractalPillAndroid.stages.7.label>
+  <FractalPillAndroid.stages.8.label>VIII</FractalPillAndroid.stages.8.label>
+  <FractalPillAndroid.stages.9.label>IX</FractalPillAndroid.stages.9.label>
+  <FractalPillAndroid.stages.10.label>X</FractalPillAndroid.stages.10.label>
+  <FractalPillAndroid.stages.11.label>XI</FractalPillAndroid.stages.11.label>
+  <FractalPillAndroid.stages.12.label>XII</FractalPillAndroid.stages.12.label>
+  <FractalPillAndroid.stages.13.label>XIII</FractalPillAndroid.stages.13.label>
+  <FractalPillAndroid.stages.14.label>XIV</FractalPillAndroid.stages.14.label>
+  <FractalPillAndroid.stages.15.label>XV</FractalPillAndroid.stages.15.label>
+  <FractalPillAndroid.stages.16.label>XVI</FractalPillAndroid.stages.16.label>
+  <FractalPillAndroid.stages.17.label>XVII</FractalPillAndroid.stages.17.label>
+  <FractalPillAndroid.stages.18.label>XVIII</FractalPillAndroid.stages.18.label>
+  <FractalPillAndroid.stages.19.label>XIX</FractalPillAndroid.stages.19.label>
+  <FractalPillAndroid.stages.20.label>XX</FractalPillAndroid.stages.20.label>
+  <FractalPillAndroid.stages.21.label>пик</FractalPillAndroid.stages.21.label>
+
+
+  <!-- Regen Pill -->
+
+  <RegenHumanoid.label>моно-мазь</RegenHumanoid.label>
+  <RegenHumanoid.stages.0.label>затрудненное дыхание</RegenHumanoid.stages.0.label>
+  <RegenHumanoid.stages.1.label>слабое</RegenHumanoid.stages.1.label>
+  <RegenHumanoid.stages.2.label>среднее</RegenHumanoid.stages.2.label>
+  <RegenHumanoid.stages.3.label>сильное</RegenHumanoid.stages.3.label>
+  <RegenHumanoid.stages.4.label>пик</RegenHumanoid.stages.4.label>
+
+
+  <!-- HediffAndroid -->
+
+  <RegenAndroid.label>моно-мазь</RegenAndroid.label>
+
+
+</LanguageData>

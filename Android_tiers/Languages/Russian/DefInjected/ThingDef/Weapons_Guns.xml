@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_40MMCannon.label>40-мм снаряд</Bullet_40MMCannon.label>
+
+  <Mech40MMCannon.label>40-мм орудие</Mech40MMCannon.label>
+  <Mech40MMCannon.description>Это модифицированное 40-мм орудие способно быстро выстрелить три снаряда по 80 кг., каждый . Предназначено для борьбы с антиматерией или мехами: боевой мех это свершенное оружие. Первоначально являясь заводским стандартом при производстве меха М7 идя с каждым агрегатом в комплекте.</Mech40MMCannon.description>
+  <Mech40MMCannon.tools.0.label>ствол</Mech40MMCannon.tools.0.label>
+  <Mech40MMCannon.tools.1.label>приклад</Mech40MMCannon.tools.1.label>
+  <Mech40MMCannon.tools.2.label>рукоять</Mech40MMCannon.tools.2.label>
+
+  <Bullet_MastiffPellet.label>гранула мастиффа</Bullet_MastiffPellet.label>
+
+  <MechMastiffGun.label>дробовик мастиффа</MechMastiffGun.label>
+  <MechMastiffGun.description>Дробовик меха, предназначенный для нанесения сокрушительного удара. Это оружие охлаждает специализированные гранулы до температур ниже -100°C прежде чем стрелять ими, в результате чего гранулы становятся хрупкими и разрушаются внутри тела при ударе.</MechMastiffGun.description>
+  <MechMastiffGun.tools.0.label>ствол</MechMastiffGun.tools.0.label>
+  <MechMastiffGun.tools.1.label>приклад</MechMastiffGun.tools.1.label>
+  <MechMastiffGun.tools.2.label>рукоять</MechMastiffGun.tools.2.label>
+
+  <Bullet_HandMechCannon.label>снаряд X-5</Bullet_HandMechCannon.label>
+
+  <MechHandCannon.label>ручная пушка</MechHandCannon.label>
+  <MechHandCannon.description>Пистолет X-5, так же известный как «ручная пушка», представляет собой полуавтоматический пистолет, способный стрелять снарядами с огромными скоростями благодаря специализированному механизму нарезки. Причиняет серьёзный ущерб как механическому, так и биологическому объекту.</MechHandCannon.description>
+  <MechHandCannon.tools.0.label>ствол</MechHandCannon.tools.0.label>
+  <MechHandCannon.tools.1.label>приклад</MechHandCannon.tools.1.label>
+  <MechHandCannon.tools.2.label>рукоять</MechHandCannon.tools.2.label>
+
+  <MeleeWeapon_MechKnife.label>клинок меха</MeleeWeapon_MechKnife.label>
+  <MeleeWeapon_MechKnife.description>Достаточно простой, длинный пластинчатый нож, изготовленный из титана толщиной 3 дюйма, дающий еще больше силы в ближнем бою меху, чем раньше.</MeleeWeapon_MechKnife.description>
+  <MeleeWeapon_MechKnife.tools.0.label>наконечник</MeleeWeapon_MechKnife.tools.0.label>
+  <MeleeWeapon_MechKnife.tools.1.label>лезвие</MeleeWeapon_MechKnife.tools.1.label>
+
+
+  <!-- Makeable -->
+
+  <AntiMechRifle.label>анти-мех винтовка</AntiMechRifle.label>
+  <AntiMechRifle.description>TЭта огромная винтовка была спроектирована для одной задачи: уничтожение механизированной пехоты. Она делает это довольно хорошо, с её высокой мощностью; она способна наносить разрушительный урон даже самым большим противникам.</AntiMechRifle.description>
+  <AntiMechRifle.tools.0.label>ствол</AntiMechRifle.tools.0.label>
+  <AntiMechRifle.tools.1.label>приклад</AntiMechRifle.tools.1.label>
+  <AntiMechRifle.tools.2.label>рукоять</AntiMechRifle.tools.2.label>
+
+
+</LanguageData>

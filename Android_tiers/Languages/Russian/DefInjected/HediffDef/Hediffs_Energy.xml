@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyEnergyAT.label>энергетическое истощение</EmptyEnergyAT.label>
+  <CriticalEnergyAT.label>критическая энергия</CriticalEnergyAT.label>
+  <LowEnergyAT.label>мало энергии</LowEnergyAT.label>
+  <LowPowerModeAT.label>режим низкого энергопотребления</LowPowerModeAT.label>
+
+  <ShutDownSequence.label>отключение системы</ShutDownSequence.label>
+  <ShutDownSequence.stages.0.label>критическое</ShutDownSequence.stages.0.label>
+  <ShutDownSequence.stages.1.label>среднее</ShutDownSequence.stages.1.label>
+  <ShutDownSequence.stages.2.label>незначительное</ShutDownSequence.stages.2.label>
+
+
+</LanguageData>

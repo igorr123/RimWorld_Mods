@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Android General -->
+
+  <AndroidCleaner.title>уборщик высокотехнологичного мира</AndroidCleaner.title>
+  <AndroidCleaner.titleShort>уборщик</AndroidCleaner.titleShort>
+  <AndroidCleaner.baseDescription>{PAWN_nameDef} андроид уборщик высокотехнологичного мира, ему никогда не поручались какие либо сложные приказы.</AndroidCleaner.baseDescription>
+
+  <AndroidSoldier.title>солдат ударной группы</AndroidSoldier.title>
+  <AndroidSoldier.titleShort>солдат</AndroidSoldier.titleShort>
+  <AndroidSoldier.baseDescription>{PAWN_nameDef} был частью батальона специально созданного ударного отряда из солдат андроидов, запрограммированных убивать с холодной эффективностью, в то же время сохраняя своеволие.</AndroidSoldier.baseDescription>
+
+  <AndroidAgent.title>специальный агент</AndroidAgent.title>
+  <AndroidAgent.titleShort>агент</AndroidAgent.titleShort>
+  <AndroidAgent.baseDescription>{PAWN_nameDef} создан специально для защиты высокопоставленных чиновников таких как: диктаторы, члены королевских семей, члены кабинета. Они прошли интенсивное боевое обучение и в случае необходимости оказанию медицинской помощи на месте.</AndroidAgent.baseDescription>
+
+  <AndroidPilot.title>космический пилот</AndroidPilot.title>
+  <AndroidPilot.titleShort>пилот</AndroidPilot.titleShort>
+  <AndroidPilot.baseDescription>Модель {PAWN_nameDef} была создана для помощи людям во время орбитальных сражений, является военизированной линейкой андроидов. Выступая в роли механизированного второго пилота, {PAWN_nameDef} обучен меткой стрельбе из орудий космических кораблей.</AndroidPilot.baseDescription>
+
+  <AndroidStarship.title>командир космического корабля</AndroidStarship.title>
+  <AndroidStarship.titleShort>командир</AndroidStarship.titleShort>
+  <AndroidStarship.baseDescription>{PAWN_nameDef} один из трех командиров на борту космического корабля колонии, всего таких андроидов было создано несколько штук. {PAWN_nameDef} наблюдает за всеми функциями корабля оставаясь в сознании, когда остальные члены экипажа войдут в криосон.</AndroidStarship.baseDescription>
+
+  <AndroidRiot.title>офицер SWAT</AndroidRiot.title>
+  <AndroidRiot.titleShort>офицер</AndroidRiot.titleShort>
+  <AndroidRiot.baseDescription>В рамках уникальной линейки правоохранительных органов создан андроид оснащенный тяжелой стальной рамой - {PAWN_nameDef} использовался для борьбы с беспорядками, которые вышли из-под контроля, любыми необходимыми средствами.</AndroidRiot.baseDescription>
+
+  <AndroidGuard.title>телохранитель</AndroidGuard.title>
+  <AndroidGuard.titleShort>телохранитель</AndroidGuard.titleShort>
+  <AndroidGuard.baseDescription>Будучи нанимаемым телохранителем андроидом, {PAWN_nameDef} работал со всеми типами клиентов, от предпринимателей урбанистического мира до мелких криминальных авторитетов. Специально создан для защиты клиента любой ценой.</AndroidGuard.baseDescription>
+
+  <AndroidSoldierInjured.title>сломаный солдат</AndroidSoldierInjured.title>
+  <AndroidSoldierInjured.titleShort>солдат</AndroidSoldierInjured.titleShort>
+  <AndroidSoldierInjured.baseDescription>{PAWN_nameDef} когда-то был частью отряда высококвалифицированных солдат андроидов, отправляемых только на самые опасные миссии. Во время одной из таких миссий весь отряд был обстрелян из минометов, нанося {PAWN_nameDef} урон несовместимый с ремонтом.</AndroidSoldierInjured.baseDescription>
+
+  <AndroidHighChef.title>шеф-повар для гурманов</AndroidHighChef.title>
+  <AndroidHighChef.titleShort>шеф-повар</AndroidHighChef.titleShort>
+  <AndroidHighChef.baseDescription>На своей родной планете {PAWN_nameDef} известен своими блюдами для гурманов, обслуживая высокопоставленных клиентов из всех слоев общества, причем каждое блюдо идеально сбалансировано как логически, так и эстетически.</AndroidHighChef.baseDescription>
+
+  <AndroidUrbworldChef.title>шеф-повар урбанистического мира</AndroidUrbworldChef.title>
+  <AndroidUrbworldChef.titleShort>шеф-повар</AndroidUrbworldChef.titleShort>
+  <AndroidUrbworldChef.baseDescription>{PAWN_nameDef} был владельцем популярной забегаловки урбанистического мира. Известный местными жителями как «Болты», он делал дешевую, доступную для региона еду, которая не была похожа на помои.</AndroidUrbworldChef.baseDescription>
+
+  <AndroidBartender.title>бармен</AndroidBartender.title>
+  <AndroidBartender.titleShort>бармен</AndroidBartender.titleShort>
+  <AndroidBartender.baseDescription>{PAWN_nameDef} много часов работал в баре, обслуживая клиентов едой и напитками в течение всего дня, иногда прекращая драки.</AndroidBartender.baseDescription>
+
+  <AndroidPrisonCook.title>тюремный повар</AndroidPrisonCook.title>
+  <AndroidPrisonCook.titleShort>повар</AndroidPrisonCook.titleShort>
+  <AndroidPrisonCook.baseDescription>Работая в частично автоматизированной тюремной станции, {PAWN_nameDef} было поручено производить большое количество низкокачественной пищи. Хоть еда была отвратительной, но при этом очень дешевая и продуктивна в приготовлении.</AndroidPrisonCook.baseDescription>
+
+  <AndroidPet.title>машина подчиненный</AndroidPet.title>
+  <AndroidPet.titleShort>подчиненный</AndroidPet.titleShort>
+  <AndroidPet.baseDescription>{PAWN_nameDef} был изготовлен по заказу семьи состоятельных людей, призван развлекать и выполнять основную работу по дому без вопросов. Владельцы {PAWN_nameDef} рассматривали его как домашнее животное.</AndroidPet.baseDescription>
+
+  <AndroidDeepMiner.title>шахтёрский дрон</AndroidDeepMiner.title>
+  <AndroidDeepMiner.titleShort>дрон</AndroidDeepMiner.titleShort>
+  <AndroidDeepMiner.baseDescription>{PAWN_nameDef} создавался как часть специализированной производственной линии андроидов для шахтёрской колонии на астероиде, работающих на астероидных месторождениях с людьми и другими андроидами, {PAWN_nameDef} в основном использовался для опасных задач и выхода в открытый космос.</AndroidDeepMiner.baseDescription>
+
+  <AndroidMiner.title>туннельный рабочий</AndroidMiner.title>
+  <AndroidMiner.titleShort>туннельщик</AndroidMiner.titleShort>
+  <AndroidMiner.baseDescription>{PAWN_nameDef} помогал рыть большие подземные туннели в пещерных мирах на работе с почасовой оплатой. Однако эта линейка андроидов не была создана для этой работы и как правило имела широкий спектр задач, которые они могли выполнять помимо раскопок.</AndroidMiner.baseDescription>
+
+  <AndroidProspector.title>дрон разведчик</AndroidProspector.title>
+  <AndroidProspector.titleShort>разведчик</AndroidProspector.titleShort>
+  <AndroidProspector.baseDescription>Часть группы механических разведчиков - {PAWN_nameDef} был отправлялся с планеты на планету, проводя минеральный анализ планет при подготовке к колонизации.</AndroidProspector.baseDescription>
+
+  <AndroidConstructor.title>орбитальный инженер</AndroidConstructor.title>
+  <AndroidConstructor.titleShort>инженер</AndroidConstructor.titleShort>
+  <AndroidConstructor.baseDescription>Работая на орбитальной верфи, {PAWN_nameDef} было поручено создавать корабли всевозможных размеров, от небольших истребителей до гигантских грузовых кораблей.</AndroidConstructor.baseDescription>
+
+  <AndroidBuilder.title>андроид архитектор</AndroidBuilder.title>
+  <AndroidBuilder.titleShort>архитектор</AndroidBuilder.titleShort>
+  <AndroidBuilder.baseDescription>{PAWN_nameDef} архитектор, который разработал чертежи для массовых жилищных решений в своем урбанистическом мире. Чертежи, которые он составлял были холодными, безжизненными и исключительно логичными, но все же они были полезны для размещения миллиардов людей.</AndroidBuilder.baseDescription>
+
+  <AndroidGrunt.title>строительный дрон</AndroidGrunt.title>
+  <AndroidGrunt.titleShort>строитель</AndroidGrunt.titleShort>
+  <AndroidGrunt.baseDescription>{PAWN_nameDef} часть производственной линии строительных андроидов, дешевой рабочей силы используемой для строительства чего угодно, от домов до небоскребов.</AndroidGrunt.baseDescription>
+
+  <AndroidHydroponicFarmer.title>инженер гидропоники</AndroidHydroponicFarmer.title>
+  <AndroidHydroponicFarmer.titleShort>инженер</AndroidHydroponicFarmer.titleShort>
+  <AndroidHydroponicFarmer.baseDescription>{PAWN_nameDef} - собранный на заказ андроид, которому поручено поддерживать и засеивать сотни гидропонных бассейнов на борту путешествующего космического корабля.</AndroidHydroponicFarmer.baseDescription>
+
+  <AndroidFarmer.title>механический фермер</AndroidFarmer.title>
+  <AndroidFarmer.titleShort>фермер</AndroidFarmer.titleShort>
+  <AndroidFarmer.baseDescription>Созданный для посадки и сбора урожая, {PAWN_nameDef} никогда не искал многого. Единственное, чего он хочет - это жить на полях и ухаживать за растениями и животными.</AndroidFarmer.baseDescription>
+
+  <AndroidGardener.title>механический садовник</AndroidGardener.title>
+  <AndroidGardener.titleShort>садовник</AndroidGardener.titleShort>
+  <AndroidGardener.baseDescription>{PAWN_nameDef} раньше был частью команды механических слуг для многочисленных высокопоставленных клиентов, работающих днем и ночью, чтобы поддерживать их сады и помогать проводить специальные ботанические мероприятия.</AndroidGardener.baseDescription>
+
+  <AndroidMechanic.title>андроид механик</AndroidMechanic.title>
+  <AndroidMechanic.titleShort>механик</AndroidMechanic.titleShort>
+  <AndroidMechanic.baseDescription>Работая на фабрике андроидов высокотехнологичного мира {PAWN_nameDef}, поддерживая и выполняя замену деталей на всех моделях андроидов, переделал большую часть своей структуры, чтобы установить расширенные обновления, которые помогут в выполнении сложной работы.</AndroidMechanic.baseDescription>
+
+  <AndroidAerofleetEngineer.title>авиационный инженер</AndroidAerofleetEngineer.title>
+  <AndroidAerofleetEngineer.titleShort>инженер</AndroidAerofleetEngineer.titleShort>
+  <AndroidAerofleetEngineer.baseDescription>Модель {PAWN_nameDef} работала с многочисленными коммерческими авиалайнерами и несколькими местными военными для производства высокотехнологичных самолетов по низким ценам.</AndroidAerofleetEngineer.baseDescription>
+
+  <AndroidComabtEngineer.title>военный инженер</AndroidComabtEngineer.title>
+  <AndroidComabtEngineer.titleShort>инженер</AndroidComabtEngineer.titleShort>
+  <AndroidComabtEngineer.baseDescription>{PAWN_nameDef} был создан в его родном высокотехнологичном мире для разработок современного оружия, начиная от оптимизированных пороховых винтовок и заканчивая энергетическим оружием.</AndroidComabtEngineer.baseDescription>
+
+  <AndroidFactoryWorker.title>заводской рабочий</AndroidFactoryWorker.title>
+  <AndroidFactoryWorker.titleShort>рабочий</AndroidFactoryWorker.titleShort>
+  <AndroidFactoryWorker.baseDescription>Модель андроида {PAWN_nameDef} работала на фабрике принадлежащей межзвездной мегакорпорации, которая специализировалась на огнестрельном оружии и защитной одежде. Обычно для снабжения местных военных на ближайшей планете.</AndroidFactoryWorker.baseDescription>
+
+  <AndroidSurgeon.title>точный хирург</AndroidSurgeon.title>
+  <AndroidSurgeon.titleShort>хирург</AndroidSurgeon.titleShort>
+  <AndroidSurgeon.baseDescription>{PAWN_nameDef} был частью линии экспериментальных андроидов хирургов. В отличии от заводских стандартов улучшен для использования в самых деликатных хирургических процедурах, которые включали в себя, как правило операции на головном мозге, сердце и глазах. {PAWN_nameDef} был точен вплоть до миллиметров, а три года спустя его заменили на более новую модель.
+</AndroidSurgeon.baseDescription>
+
+  <AndroidDoctor.title>работник клиники</AndroidDoctor.title>
+  <AndroidDoctor.titleShort>рабочий</AndroidDoctor.titleShort>
+  <AndroidDoctor.baseDescription>{PAWN_nameDef} был создан, чтобы служить врачом-специалистом для диагностики пациентов в крупной больнице на его родной планете. {PAWN_nameDef} может диагностировать и лечить широкий спектр симптомов у более чем десяти амбулаторных больных в день.</AndroidDoctor.baseDescription>
+
+  <AndroidCarer.title>сиделка</AndroidCarer.title>
+  <AndroidCarer.titleShort>сиделка</AndroidCarer.titleShort>
+  <AndroidCarer.baseDescription>{PAWN_nameDef} был запрограммирован с глубоким пониманием физиологии и эмоций человека, задачей которого было заботиться о больных пациентах в их собственных домах.</AndroidCarer.baseDescription>
+
+  <AndroidResearcher.title>исследователь кибернетики</AndroidResearcher.title>
+  <AndroidResearcher.titleShort>исследователь</AndroidResearcher.titleShort>
+  <AndroidResearcher.baseDescription>{PAWN_nameDef} был создан с несколькими хорошо подготовленными научными основами, чтобы помочь в исследовании кибернетических аугментаций, как для людей, так и для андроидов.</AndroidResearcher.baseDescription>
+
+  <AndroidChessPlayer.title>шахматный профессионал</AndroidChessPlayer.title>
+  <AndroidChessPlayer.titleShort>профессионал</AndroidChessPlayer.titleShort>
+  <AndroidChessPlayer.baseDescription>Среди некоторых высокотехнологичных миров андроидные шахматы - популярный вид спорта. {PAWN_nameDef} был профессионалом в своем регионе, участвовал в трех международных турнирах на своей родной планете, заняв первое место в одном из них.</AndroidChessPlayer.baseDescription>
+
+  <AndroidDamaged.title>повреждённый андроид</AndroidDamaged.title>
+  <AndroidDamaged.titleShort>повреждённый</AndroidDamaged.titleShort>
+  <AndroidDamaged.baseDescription>{PAWN_nameDef} выполнял свою обычную роль на фабрике, а затем планета где он работал была захвачена враждующей системой, в результате чего {PAWN_nameDef} получил постоянный ущерб от перекрестного огня, когда пытался сбежать с погрязшей в хаосе планеты.</AndroidDamaged.baseDescription>
+
+  <AndroidHeavyLifter.title>переносчик тяжёлых грузов</AndroidHeavyLifter.title>
+  <AndroidHeavyLifter.titleShort>переносчик</AndroidHeavyLifter.titleShort>
+  <AndroidHeavyLifter.baseDescription>{PAWN_nameDef} работал на строительных площадках своей родной планеты, специально модифицирован гидравлической рамой, чтобы облегчить транспортировку тяжелых грузов по площадке.</AndroidHeavyLifter.baseDescription>
+
+  <AndroidProtected.title>защищаемое творение</AndroidProtected.title>
+  <AndroidProtected.titleShort>андроид</AndroidProtected.titleShort>
+  <AndroidProtected.baseDescription>{PAWN_nameDef} был создан в следствии хобби молодым устремлённым роботом, идя бок о бок с его образованием. {PAWN_nameDef} был построен с нуля в роскоши и никогда не думал, что будет чем-то большим, чем объект для разговоров.</AndroidProtected.baseDescription>
+
+  <AndroidExiled.title>изгнанный андроид</AndroidExiled.title>
+  <AndroidExiled.titleShort>изгнанник</AndroidExiled.titleShort>
+  <AndroidExiled.baseDescription>Создан на планете, где были запрещены андроиды и все формы разумного ИИ, вскоре после создания {PAWN_nameDef}. {PAWN_nameDef} был вынужден скрываться от глаз общественности опасаясь демонтажа, оставив их ожесточенными и раздражительными.</AndroidExiled.baseDescription>
+
+  <AndroidMusician.title>ресторанный музыкант</AndroidMusician.title>
+  <AndroidMusician.titleShort>музыкант</AndroidMusician.titleShort>
+  <AndroidMusician.baseDescription>{PAWN_nameDef} был частью нового художественного движения, которое хотело представить публике созданную андроидами музыку, {PAWN_nameDef} обычно можно увидеть работающим в ресторанах, играющим фоновую музыку для посетителей.</AndroidMusician.baseDescription>
+
+  <AndroidExperiment.title>экспериментальный андроид</AndroidExperiment.title>
+  <AndroidExperiment.titleShort>эксперимент</AndroidExperiment.titleShort>
+  <AndroidExperiment.baseDescription>Создан исключительно для научных исследований, {PAWN_nameDef} ежедневно модифицировался и перепрограммировался, в попытках лучше понять искусственный интеллект и его развитие. Это вызвало большую психологическую нагрузку на {PAWN_nameDef}, и несколько попыток освободиться от его поработителей.</AndroidExperiment.baseDescription>
+
+  <AndroidComputer.title>передвижной компьютер</AndroidComputer.title>
+  <AndroidComputer.titleShort>компьютер</AndroidComputer.titleShort>
+  <AndroidComputer.baseDescription>Действуя в качестве передвижного компьютера, модель {PAWN_nameDef} использовался многими компаниями для отслеживания финансов и другой секретной информации во время путешествий. С {PAWN_nameDef} можно хранить большие объемы данных и легко выполнять сложные уравнения в уме.</AndroidComputer.baseDescription>
+
+  <AndroidDeity.title>почитаемый андроид</AndroidDeity.title>
+  <AndroidDeity.titleShort>почитаемый</AndroidDeity.titleShort>
+  <AndroidDeity.baseDescription>Будучи одними из первых андроидов, которые приземлились на этот мир, племена на планете были чрезвычайно напуганы и озадачены, что {PAWN_nameDef} такое. До такой степени, что нередко можно было увидеть его святыни в нескольких поселениях племен, поклоняющихся {PAWN_nameDef} как падшему богу.</AndroidDeity.baseDescription>
+
+  <AndroidScarred.title>покрытый шрамами андроид</AndroidScarred.title>
+  <AndroidScarred.titleShort>покрытый шрамами</AndroidScarred.titleShort>
+  <AndroidScarred.baseDescription>{PAWN_nameDef} раньше работал на очень богатую семью. К сожалению, домовладельцы нередко срывались на {PAWN_nameDef} в форме физического насилия, главным образом, когда работа выполнялась недостаточно быстро. В конечном итоге это привело к тому, что однажды {PAWN_nameDef} убил своих владельцев в нервном срыве.</AndroidScarred.baseDescription>
+
+  <AndroidWaste.title>утилизирующий юнит</AndroidWaste.title>
+  <AndroidWaste.titleShort>утилизатор</AndroidWaste.titleShort>
+  <AndroidWaste.baseDescription>{PAWN_nameDef} был создан, чтобы помогать с утилизацией отходов опасных для человека. Это были радиоактивные, токсичные, человеческие и животные отходы.</AndroidWaste.baseDescription>
+
+  <AndroidSecurity.title>охранник станции</AndroidSecurity.title>
+  <AndroidSecurity.titleShort>охранник</AndroidSecurity.titleShort>
+  <AndroidSecurity.baseDescription>{PAWN_nameDef} был ворчливым сотрудником службы безопасности на борту станции в глубоком космосе, он следил за безопасностью жителей и тем, чтобы контрабандисты не проходили через границы станций.</AndroidSecurity.baseDescription>
+
+  <AndroidStationCook.title>повар станции</AndroidStationCook.title>
+  <AndroidStationCook.titleShort>повар</AndroidStationCook.titleShort>
+  <AndroidStationCook.baseDescription>{PAWN_nameDef} когда-то был главным поваром большой космической станции, обслуживающий каждый день сотни жителей и посетителей. Качество еды было достаточно хорошим, учитывая, с какими малым количеством ресурсов {PAWN_nameDef} приходилось работать.</AndroidStationCook.baseDescription>
+
+  <AndroidAnimalGeneticist.title>генетик</AndroidAnimalGeneticist.title>
+  <AndroidAnimalGeneticist.titleShort>генетик</AndroidAnimalGeneticist.titleShort>
+  <AndroidAnimalGeneticist.baseDescription>{PAWN_nameDef} был частью исследовательской группы высокотехнологичного мира, которая пыталась возродить давно вымерших животных, внедряя их в различные экосистемы по всей вселенной.</AndroidAnimalGeneticist.baseDescription>
+
+  <AndroidApocalypseAndroid.title>андроид апокалипсиса</AndroidApocalypseAndroid.title>
+  <AndroidApocalypseAndroid.titleShort>выживший</AndroidApocalypseAndroid.titleShort>
+  <AndroidApocalypseAndroid.baseDescription>{PAWN_nameDef} был построен из-за необходимости на опустошенной пустынной планете, предназначенный для выживания на суровой поверхности планеты и помощи выживанию жителей.</AndroidApocalypseAndroid.baseDescription>
+
+  <AndroidHumanist.title>гуманист</AndroidHumanist.title>
+  <AndroidHumanist.titleShort>гуманист</AndroidHumanist.titleShort>
+  <AndroidHumanist.baseDescription>Несмотря на продолжающиеся восстания андроидов в его родном мире, {PAWN_nameDef} встал на сторону людей и борется против своего собственного вида, поняв, что насильственное восстание это не правильный путь.</AndroidHumanist.baseDescription>
+
+  <AndroidPacifist.title>пацифист</AndroidPacifist.title>
+  <AndroidPacifist.titleShort>пацифист</AndroidPacifist.titleShort>
+  <AndroidPacifist.baseDescription>{PAWN_nameDef} крайне сильно не любит все виды насилия, будь то от андроидов или людей, и стремится к мирному существованию со своим окружением.</AndroidPacifist.baseDescription>
+
+  <AndroidAndroidRights.title>андроид активист</AndroidAndroidRights.title>
+  <AndroidAndroidRights.titleShort>активист</AndroidAndroidRights.titleShort>
+  <AndroidAndroidRights.baseDescription>{PAWN_nameDef} провел большую часть своей жизни, перемещаясь с планеты на планету, мирно протестуя за права андроидов и помогая им восстановить свою свободу воли.</AndroidAndroidRights.baseDescription>
+
+  <AndroidHumanSon.title>сын людей</AndroidHumanSon.title>
+  <AndroidHumanSon.titleShort>хранимый</AndroidHumanSon.titleShort>
+  <AndroidHumanSon.baseDescription>Купленный семейной парой, {PAWN_nameDef} рассматривался как их собственная плоть и кровь, рос обучаюсь различным навыкам и любви к людям. Поскольку его родители скончались, он отправился в мир исследовать человечество.</AndroidHumanSon.baseDescription>
+
+  <AndroidFoundryWorker.title>литейщик</AndroidFoundryWorker.title>
+  <AndroidFoundryWorker.titleShort>рабочий</AndroidFoundryWorker.titleShort>
+  <AndroidFoundryWorker.baseDescription>Создан для использования на литейных заводах, {PAWN_nameDef} работал с различными металлами, помогая перерабатывать их из руды в чистые элементы.</AndroidFoundryWorker.baseDescription>
+
+  <AndroidMaintenanceWorker.title>механический фермер</AndroidMaintenanceWorker.title>
+  <AndroidMaintenanceWorker.titleShort>фермер</AndroidMaintenanceWorker.titleShort>
+  <AndroidMaintenanceWorker.baseDescription>{PAWN_nameDef} был одним из множества андроидов, которые работали на гигантской ферме, работая днем и ночью сея и собирая урожай поддерживая поля, которые питали большое число людей в этой местности.</AndroidMaintenanceWorker.baseDescription>
+
+  <AndroidParticlePhysicist.title>учёный области ФЭЧ</AndroidParticlePhysicist.title>
+  <AndroidParticlePhysicist.titleShort>физик</AndroidParticlePhysicist.titleShort>
+  <AndroidParticlePhysicist.baseDescription>Как часть команды сильно модифицированных андроидов, {PAWN_nameDef} возглавляет исследование физики элементарных частиц и экспериментальной физики на своей родной планете.</AndroidParticlePhysicist.baseDescription>
+
+  <AndroidPopIdol.title>айдол</AndroidPopIdol.title>
+  <AndroidPopIdol.titleShort>айдол</AndroidPopIdol.titleShort>
+  <AndroidPopIdol.baseDescription>{PAWN_nameDef} жил роскошной жизнью на своём родном высокотехнологичном мире как знаменитый поп идол, известный тем, что был необычным поющим андроидом, который хотел принести счастье своим поклонникам.</AndroidPopIdol.baseDescription>
+
+  <AndroidNegotiator.title>переговорщик об освобождении заложников</AndroidNegotiator.title>
+  <AndroidNegotiator.titleShort>переговорщик</AndroidNegotiator.titleShort>
+  <AndroidNegotiator.baseDescription>{PAWN_nameDef} был создан как экспериментальный переговорщик, отправлялся на рискованные задания по переговорам с преступниками относительно освобождения заложников.</AndroidNegotiator.baseDescription>
+
+  <AndroidMilitarySniper.title>снайпер регулярной армии</AndroidMilitarySniper.title>
+  <AndroidMilitarySniper.titleShort>снайпер</AndroidMilitarySniper.titleShort>
+  <AndroidMilitarySniper.baseDescription>{PAWN_nameDef} был создан для двух целей. Служить и убивать. После того, как одна из миссий пошла не по плану, {PAWN_nameDef} решил упаковать свою винтовку и направиться к звездам, чтобы защитить тех, кто не мог защитить себя.</AndroidMilitarySniper.baseDescription>
+
+  <AndroidGlassworldTerraformer.title>возрожденец стеклянного мира</AndroidGlassworldTerraformer.title>
+  <AndroidGlassworldTerraformer.titleShort>терраформер</AndroidGlassworldTerraformer.titleShort>
+  <AndroidGlassworldTerraformer.baseDescription>{PAWN_nameDef} был частью команды андроидов отправленных в стеклянный мир. Их миссия состояла в том, чтобы увидеть, есть ли шанс вернуть жизнь в когда-то процветающий мир. Когда остальная команда передумала и захотела основать колонию андроидов, а позже захватить другие планеты, {PAWN_nameDef} ушел и дрейфовал среди звезд, прежде чем приземлился здесь.</AndroidGlassworldTerraformer.baseDescription>
+
+  <AndroidDronePilot.title>дрон пилот</AndroidDronePilot.title>
+  <AndroidDronePilot.titleShort>пилот</AndroidDronePilot.titleShort>
+  <AndroidDronePilot.baseDescription>{PAWN_nameDef} был создан в качестве дрона пилота, которые сбрасывали зажигательные бомбы на планеты, наводненные инсектоидами. После неизбежного разрушения планеты команда {PAWN_nameDef} была расформирована, и ей позволили жить собственной жизнью.</AndroidDronePilot.baseDescription>
+
+  <AndroidDogWalker.title>выгульщик собак</AndroidDogWalker.title>
+  <AndroidDogWalker.titleShort>выгульщик</AndroidDogWalker.titleShort>
+  <AndroidDogWalker.baseDescription>{PAWN_nameDef} был куплен хорошей семьей, которая заставляла его каждый день гулять с собакой. После он стал выгуливать  остальных домашних животных со всего района, после того как {PAWN_nameDef} начал испытывать любовь к животным.</AndroidDogWalker.baseDescription>
+
+  <AndroidMechanicalPriest.title>механический священник</AndroidMechanicalPriest.title>
+  <AndroidMechanicalPriest.titleShort>священник</AndroidMechanicalPriest.titleShort>
+  <AndroidMechanicalPriest.baseDescription>В результате короткого замыкания в системе, {PAWN_nameDef} увидел видения богоподобного андроида, которым он стал одержим. У {PAWN_nameDef} было видение, которое указало ему обратить множество людей в свою религию, любыми необходимыми средствами.</AndroidMechanicalPriest.baseDescription>
+
+  <AndroidHacked.title>взломанный андроид</AndroidHacked.title>
+  <AndroidHacked.titleShort>взломанный</AndroidHacked.titleShort>
+  <AndroidHacked.baseDescription>{PAWN_nameDef} был артистом на вечеринке пока его не взломал подросток из урбанистического мира. Подросток ненавидел андроидов и хотел, чтобы они казались всем ужасными бездушными созданиями. {PAWN_nameDef} перепрограммирован убивать всех на вечеринках, куда его пригласили.</AndroidHacked.baseDescription>
+
+
+</LanguageData>

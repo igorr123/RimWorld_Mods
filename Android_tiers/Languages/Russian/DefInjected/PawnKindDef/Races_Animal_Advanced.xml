@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RGrower -->
+
+  <AndroidSheep.label>юнит фитодобычи</AndroidSheep.label>
+  <AndroidSheep.labelPlural>юниты фитодобычи</AndroidSheep.labelPlural>
+
+
+  <!-- RMilker -->
+
+  <AndroidCow.label>юнит N-Раствора</AndroidCow.label>
+  <AndroidCow.labelPlural>юниты N-Раствора</AndroidCow.labelPlural>
+
+
+</LanguageData>

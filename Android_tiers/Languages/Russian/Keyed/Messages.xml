@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MessageMedicalOperationFailureMinorAndroid>{0} незначительно провалился при работе над {1}.</MessageMedicalOperationFailureMinorAndroid>
+  <MessageMedicalOperationFailureCatastrophicAndroid>{0} потерпел катастрофу при работе над {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+  <MessageMedicalOperationFailureRidiculousAndroid>{0} потерпел нелепую неудачу при работе над {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+  <MessageMedicalOperationFailureFatalAndroid>{0} совершил фатальную ошибку при работе над {1} из-за особых проблем: {2}</MessageMedicalOperationFailureFatalAndroid>
+
+</LanguageData>

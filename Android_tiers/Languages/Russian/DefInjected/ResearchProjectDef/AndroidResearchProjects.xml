@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicRobotics.label>базовая робототехника</BasicRobotics.label>
+  <BasicRobotics.description>Так же просто, как получить продвинутую робототехнику, исследование анатомии человеческого тела и имитирование его в механической форме.</BasicRobotics.description>
+
+  <BasicRoboticAnimals.label>базовые искусственные существа</BasicRoboticAnimals.label>
+  <BasicRoboticAnimals.description>Исследования по разработке простых рекреаций биологических животных. позволяет разрабатывать юниты M.U.F.F; сильные караванные существа, которые могут переносить на спине большой вес.</BasicRoboticAnimals.description>
+
+  <AdvRoboticAnimals.label>продвинутые искусственные существа</AdvRoboticAnimals.label>
+  <AdvRoboticAnimals.description>Дальнейшее развитие предыдущего исследования, этот проект изучает существ, основанных на практичности. Имитация обычных сельскохозяйственных животных с Земли, таких как юнит фитодобычи.</AdvRoboticAnimals.description>
+
+  <UltimateRoboticAnimals.label>экспериментальные искусственные существа</UltimateRoboticAnimals.label>
+  <UltimateRoboticAnimals.description>Чрезвычайно сложные роботизированные существа, которые никогда не были более чем концепцией на большинстве планет. К ним относятся кибернетический юнит К-9 , сильное и быстрое существо с мощной челюстью. Когда-то спроектированный для экстремального контроля толпы.</UltimateRoboticAnimals.description>
+
+  <BasicEnhancement.label>базовые улучшения</BasicEnhancement.label>
+  <BasicEnhancement.description>Исследование базовых расходуемых улучшений, которые помогут механическим пешкам на короткий промежуток времени.</BasicEnhancement.description>
+
+  <AdvEnhancement.label>передовые улучшения</AdvEnhancement.label>
+  <AdvEnhancement.description>Исследование высокоразвитых расходуемых улучшений, которые дают пешке огромный уровень способности на короткий промежуток времени.</AdvEnhancement.description>
+
+  <AndroidOperationFurniture.label>станция модернизации андроидов</AndroidOperationFurniture.label>
+  <AndroidOperationFurniture.description>Позволяет строить станции модернизации андроидов и улучшенные шкафы, которые повышают результаты работы андроида.</AndroidOperationFurniture.description>
+
+  <T1Androids.label>андроиды Т1</T1Androids.label>
+  <T1Androids.description>Исследование того, как производить машины, которые способны быть разумными, хотя и на очень базовом уровне по сравнению со способностями реальных людей.</T1Androids.description>
+
+  <T1Replacements.label>базовая замена частей</T1Replacements.label>
+  <T1Replacements.description>Найти способы разработки базовых запасных частей, которые взаимозаменяемы между всеми моделями андроида, что позволит продлить их срок службы.</T1Replacements.description>
+
+  <T2Androids.label>андроиды Т2</T2Androids.label>
+  <T2Androids.description>Разработать на дизайне андроида T1 более эффективные способы передвижения и способы вместить больше интеллекта.</T2Androids.description>
+
+  <AndroidPsychology.label>продвинутое программирование</AndroidPsychology.label>
+  <AndroidPsychology.description>Исследование этой технологии откроем вам различные способы перепрограммирования андроидов: от преобразования заключенных до рандомизации личности андроида.</AndroidPsychology.description>
+
+  <T2Plating.label>базовая обшивка андроида</T2Plating.label>
+  <T2Plating.description>Разработать способы крепления пластин брони на андроидов, не препятствуя двигательным функциям.</T2Plating.description>
+
+  <AdvT2Plating.label>композитная обшивка андроида</AdvT2Plating.label>
+  <AdvT2Plating.description>Разработать способы изготовления композитной обшивки, которая может быть установлена на андроидах.</AdvT2Plating.description>
+
+  <T2Replacements.label>передовая замена конечностей</T2Replacements.label>
+  <T2Replacements.description>Улучшить предыдущие модели замещающие конечности, чтобы обеспечить более эффективные движения для андроидов уровня 3/4.</T2Replacements.description>
+
+  <T2ReplacementsOrgans.label>передовая замена внутренних деталей</T2ReplacementsOrgans.label>
+  <T2ReplacementsOrgans.description>Улучшить предыдущие модели замещающие конечности, чтобы использовать более эффективные внутренние элементы для андроидов уровня 3/4.</T2ReplacementsOrgans.description>
+
+  <T3Implants.label>импланты мозга андроида</T3Implants.label>
+  <T3Implants.description>Импланты, которые дают множество бонусов, начиная от улучшения горного дела до боевых обновлений.</T3Implants.description>
+
+  <T3Androids.label>андроиды Т3</T3Androids.label>
+  <T3Androids.description>Исследование тел машин, которые могут идеально имитировать человеческие движение и личность, до такой степени, что их внешний вид может быть единственным отличимым признаком.</T3Androids.description>
+
+  <T4Androids.label>андроиды Т4</T4Androids.label>
+  <T4Androids.description>Исследовать и разработать ультрасовременную робототехнику, которая включает в себя: псевдо-мышечные волокна, которые работают как человеческая копия, но с гораздо более высокой эффективностью, позитронные мозговые карты и сложные модульные каркасы. Позволяет конструировать андроидов Т4.</T4Androids.description>
+
+  <T5Research.label>модернизации архотек</T5Research.label>
+  <T5Research.description>Исследования в модернизации уровня архотек, этот уровень технологии непостижим для большинства людей, требующий андроида Т5 для разработки; так как только они овладеют достаточной сложностью разума для понимания этого.\n\n[ТОЛЬКО АНДРОИД Т5 МОЖЕТ ИССЛЕДОВАТЬ ЭТУ ТЕХНОЛОГИЮ]</T5Research.description>
+
+  <AiPersonaFab.label>производство ИИ личности</AiPersonaFab.label>
+  <AiPersonaFab.description>Изучите создание ИИ личности с нуля</AiPersonaFab.description>
+
+
+</LanguageData>

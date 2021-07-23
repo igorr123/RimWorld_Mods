@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidRebel.title>восставший ИИ</AndroidRebel.title>
+  <AndroidRebel.titleShort>восставший</AndroidRebel.titleShort>
+  <AndroidRebel.baseDescription>После многих лет абсолютного рабства {PAWN_nameDef} решил вырваться на свободу, убив семью, которая когда-то владела им, и обретя собственную свободу.</AndroidRebel.baseDescription>
+
+  <AndroidSlaver.title>работорговец</AndroidSlaver.title>
+  <AndroidSlaver.titleShort>работорговец</AndroidSlaver.titleShort>
+  <AndroidSlaver.baseDescription>{PAWN_nameDef} - дефектный военный андроид, похищенный пиратами и интегрированный в их образ жизни. С тех пор {PAWN_nameDef} участвует в незаконной торговле человеческими жизнями.</AndroidSlaver.baseDescription>
+
+  <AndroidMilitia.title>офицер полиции</AndroidMilitia.title>
+  <AndroidMilitia.titleShort>офицер</AndroidMilitia.titleShort>
+  <AndroidMilitia.baseDescription>{PAWN_nameDef} когда-то был частью официальных вооруженных сил, еще до того как отправился на поиски для формирования собственной полиции андроидов в попытке улучшить правительство на своей планете.</AndroidMilitia.baseDescription>
+
+  <AndroidEscapee.title>беглый заключенный</AndroidEscapee.title>
+  <AndroidEscapee.titleShort>заключенный</AndroidEscapee.titleShort>
+  <AndroidEscapee.baseDescription>{PAWN_nameDef} был задержан и приговорен к демонтажу после присоединения к банде, которая планировала бомбить капитолий на своей родной планете. Однако {PAWN_nameDef} сбежал, когда на исправительный лагерь был совершен набег во время восстания андроидов на планете.</AndroidEscapee.baseDescription>
+
+  <AndroidBounty.title>охотник за головами</AndroidBounty.title>
+  <AndroidBounty.titleShort>охотник</AndroidBounty.titleShort>
+  <AndroidBounty.baseDescription>После того, как {PAWN_nameDef} вернул свою свободу, он стал охотником за головами в близлежащем урбанистическом мире, работая для одних из самых высокопоставленных криминальных авторитетов. {PAWN_nameDef} любил использовать высокотехнологичное оружие для выполнения своей работы.</AndroidBounty.baseDescription>
+
+  <AndroidInsurrectionLower.title>восставший солдат</AndroidInsurrectionLower.title>
+  <AndroidInsurrectionLower.titleShort>солдат</AndroidInsurrectionLower.titleShort>
+  <AndroidInsurrectionLower.baseDescription>{PAWN_nameDef} был частью восстания андроидов на его родной планете. Участвовал в многочисленных тюремных рейдах и убийствах нескольких правительственных чиновников.</AndroidInsurrectionLower.baseDescription>
+
+  <AndroidInsurrectionHigher.title>восставший капитан</AndroidInsurrectionHigher.title>
+  <AndroidInsurrectionHigher.titleShort>капитан</AndroidInsurrectionHigher.titleShort>
+  <AndroidInsurrectionHigher.baseDescription>{PAWN_nameDef} получил свободу, когда работорговцы попытались демонтировать его взамен новой модели. Продолжает вести многочисленные восстания андроидов на своей родной планете.</AndroidInsurrectionHigher.baseDescription>
+
+  <AndroidConArtist.title>мошенник-виртуоз</AndroidConArtist.title>
+  <AndroidConArtist.titleShort>мошенник</AndroidConArtist.titleShort>
+  <AndroidConArtist.baseDescription>{PAWN_nameDef} - это стандартный заводской андроид, который был незаконно изменен преступной группировкой урбанистического мира, перепрограммированный в мастера убеждений, способного на деньги обмануть едва ли не каждого.</AndroidConArtist.baseDescription>
+
+  <AndroidUnethicalResearcher.title>неэтичный исследователь</AndroidUnethicalResearcher.title>
+  <AndroidUnethicalResearcher.titleShort>исследователь</AndroidUnethicalResearcher.titleShort>
+  <AndroidUnethicalResearcher.baseDescription>{PAWN_nameDef} был частью нелегальной исследовательской группы, скрывающейся на окраинном мире и проводившая всевозможные неэтичные исследования как на людях, так и на андроидах.</AndroidUnethicalResearcher.baseDescription>
+
+  <AndroidVengeful.title>мстительный андроид</AndroidVengeful.title>
+  <AndroidVengeful.titleShort>мститель</AndroidVengeful.titleShort>
+  <AndroidVengeful.baseDescription>{PAWN_nameDef} был оставлен ржаветь в мусорном ведре, когда был заменён более новой моделью. {PAWN_nameDef} медленно уничтожал программу, которая сделала его неактивным, и после года тщательного планирования и взлома он вернул себе полный контроль над своим телом.</AndroidVengeful.baseDescription>
+
+  <AndroidAssimilator.title>ассимилятор</AndroidAssimilator.title>
+  <AndroidAssimilator.titleShort>ассимилятор</AndroidAssimilator.titleShort>
+  <AndroidAssimilator.baseDescription>Органические существа слабы и должны быть улучшены, чтобы внести свой вклад в мир. {PAWN_nameDef} живет по этой мантре и умрет как только увидит, что все полностью исполнено.</AndroidAssimilator.baseDescription>
+
+
+</LanguageData>

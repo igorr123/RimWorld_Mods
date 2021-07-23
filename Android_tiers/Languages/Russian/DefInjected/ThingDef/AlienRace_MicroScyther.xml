@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MicroScyther.label>микрожнец</MicroScyther.label>
+  <MicroScyther.description>Небольшой модифицированный дрон, который летает невероятно быстро, оснащен двумя маленькими, но очень острыми крыльями по обе стороны от основного корпуса; используется для нанесения небольшого количества урона в течение длительного времени. Довольно жалок в одиночку, но очень опасен в группах.</MicroScyther.description>
+  <MicroScyther.tools.0.label>голова</MicroScyther.tools.0.label>
+  <MicroScyther.tools.1.label>левое крыло</MicroScyther.tools.1.label>
+  <MicroScyther.tools.2.label>правое крыло</MicroScyther.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <MicroScyther_Corpse.label>труп микрожнеца</MicroScyther_Corpse.label>
+  <MicroScyther_Corpse.description>Труп микрожнеца.</MicroScyther_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidSoftwareCreator.title>разработчик ПО</AndroidSoftwareCreator.title>
+  <AndroidSoftwareCreator.titleShort>разработчик</AndroidSoftwareCreator.titleShort>
+  <AndroidSoftwareCreator.baseDescription>{PAWN_nameDef} был создан для разработки ПО, которое помогло бы в технологии сканирования мозга. Рабочая группа изучала возможность загрузки сознания в механическое тело. {PAWN_nameDef} был на удивление медленным и неэффективным, к тому же никогда не писал подходящее для этого программное обеспечение, в конечном итоге его заменили более новой моделью.</AndroidSoftwareCreator.baseDescription>
+
+
+</LanguageData>

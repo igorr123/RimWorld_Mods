@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidOperationBed.label>станция модернизации андроидов</AndroidOperationBed.label>
+  <AndroidOperationBed.description>Специализированный стол для помощи в модернизации андроидов и других операциях. Станция оснащена всеми инструментами, необходимыми для работы над андроидами, а также двумя дисплеями, которые показывают важную об андроиде информацию механику.</AndroidOperationBed.description>
+  <AndroidOperationBed_Blueprint.label>станция модернизации андроидов (проект)</AndroidOperationBed_Blueprint.label>
+  <AndroidOperationBed_Blueprint_Install.label>станция модернизации андроидов (проект)</AndroidOperationBed_Blueprint_Install.label>
+  <AndroidOperationBed_Frame.label>станция модернизации андроидов (постройка)</AndroidOperationBed_Frame.label>
+
+  <AndroidOperationKit.label>улучшенный шкаф</AndroidOperationKit.label>
+  <AndroidOperationKit.description>Небольшой шкаф, который можно использовать вместе со станцией модернизации андроидов или кроватью. Он содержит очень точные, небольшие инструменты для самых деликатных процедур.</AndroidOperationKit.description>
+  <AndroidOperationKit_Blueprint.label>улучшенный шкаф (проект)</AndroidOperationKit_Blueprint.label>
+  <AndroidOperationKit_Blueprint_Install.label>улучшенный шкаф (проект)</AndroidOperationKit_Blueprint_Install.label>
+  <AndroidOperationKit_Frame.label>улучшенный шкаф (постройка)</AndroidOperationKit_Frame.label>
+
+
+</LanguageData>

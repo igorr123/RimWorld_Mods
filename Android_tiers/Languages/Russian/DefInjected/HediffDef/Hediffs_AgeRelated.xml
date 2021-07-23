@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DecayedFrame.label>разрушающийся каркас</DecayedFrame.label>
+  <DecayedFrame.labelNoun>разрушающийся каркас</DecayedFrame.labelNoun>
+
+  <CorruptMemory.label>повреждение памяти</CorruptMemory.label>
+
+  <WeakValves.label>ослабленные клапаны</WeakValves.label>
+  <WeakValves.stages.0.label>скрыто</WeakValves.stages.0.label>
+  <WeakValves.stages.1.label>незначительно</WeakValves.stages.1.label>
+  <WeakValves.stages.2.label>серьёзно</WeakValves.stages.2.label>
+
+  <ExaggeratedHealing.label>гиперактивная реакция</ExaggeratedHealing.label>
+  <ExaggeratedHealing.stages.0.label>слабая</ExaggeratedHealing.stages.0.label>
+  <ExaggeratedHealing.stages.1.label>серьёзная</ExaggeratedHealing.stages.1.label>
+  <ExaggeratedHealing.stages.2.label>экстремальная</ExaggeratedHealing.stages.2.label>
+  <ExaggeratedHealing.stages.3.label>фатальная</ExaggeratedHealing.stages.3.label>
+
+  <FaultyPump.label>неисправность насоса</FaultyPump.label>
+  <FaultyPump.stages.0.label>небольшая</FaultyPump.stages.0.label>
+  <FaultyPump.stages.1.label>небольшая</FaultyPump.stages.1.label>
+  <FaultyPump.stages.2.label>серьёзная</FaultyPump.stages.2.label>
+  <FaultyPump.stages.3.label>серьёзная</FaultyPump.stages.3.label>
+  <FaultyPump.stages.4.label>экстремальная</FaultyPump.stages.4.label>
+  <FaultyPump.labelNoun>неисправность насоса</FaultyPump.labelNoun>
+
+
+</LanguageData>

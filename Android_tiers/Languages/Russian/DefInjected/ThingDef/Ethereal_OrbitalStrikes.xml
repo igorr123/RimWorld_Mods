@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechFallBeam.label>приземление меха</MechFallBeam.label>
+
+  <OrbitalTargeterMechFall.label>орбитальный целеуказатель приземления меха</OrbitalTargeterMechFall.label>
+  <OrbitalTargeterMechFall.description>Старинный прибор целеуказания для автоматического развертывания механизированного пехотного юнита марк-7 сброшенного с орбиты. Однако заряд ограничен и требует специального зарядного оборудования для позарядки. Что делает его бесполезным, как только заряд иссякнет.</OrbitalTargeterMechFall.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <Abomination.label>фрактальный мутант</Abomination.label>
+  <Abomination.description>Мутанты - это быстрые массы искривлённой и замученной плоти, способная регенерировать даже самые сильные раны. Вот почему люди не должны потреблять фрактальные таблетки.</Abomination.description>
+  <Abomination.tools.1.label>правый кулак</Abomination.tools.1.label>
+  <Abomination.tools.2.label>левый кулак</Abomination.tools.2.label>
+  <Abomination.tools.3.label>голова</Abomination.tools.3.label>
+  <Abomination_Leather.label>кожа фрактального мутанта</Abomination_Leather.label>
+  <Abomination_Leather.description>Кожа снятая с фрактального мутанта.</Abomination_Leather.description>
+  <Abomination_Leather.stuffProps.stuffAdjective>кожа фрактального мутанта</Abomination_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Abomination_Corpse.label>труп фрактального мутанта</Abomination_Corpse.label>
+  <Abomination_Corpse.description>Труп фрактального мутанта.</Abomination_Corpse.description>
+
+
+  <!-- Abomination -->
+
+  <Tainted_Skin.label>загнивающая кожа</Tainted_Skin.label>
+  <Tainted_Skin.description>Извитая и искаженная кожа фрактального мутанта. Довольно редкая и популярная в основном для исследователей.</Tainted_Skin.description>
+  <Tainted_Skin.stuffProps.stuffAdjective>загнивающая кожа</Tainted_Skin.stuffProps.stuffAdjective>
+
+
+</LanguageData>

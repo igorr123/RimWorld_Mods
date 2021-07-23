@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHeart.label>насос хладагента</MHeart.label>
+  <MLeftLung.label>левый радиатор</MLeftLung.label>
+  <MRightLung.label>правый радиатор</MRightLung.label>
+  <MLeftKidney.label>аккумулятор</MLeftKidney.label>
+  <MRightKidney.label>хранилище механитов</MRightKidney.label>
+  <MLiver.label>адаптер напряжения</MLiver.label>
+  <MStomach.label>биопроцессор</MStomach.label>
+  <MRightServo.label>сервоприводы движения</MRightServo.label>
+  <MGenerator.label>термоядерное ядро</MGenerator.label>
+
+
+</LanguageData>

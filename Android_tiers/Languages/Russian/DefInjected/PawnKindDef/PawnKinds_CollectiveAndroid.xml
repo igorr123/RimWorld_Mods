@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidT3CollectiveColonist.label>андроид горожанин Т3</AndroidT3CollectiveColonist.label>
+  <AndroidT3CollectiveColonist.labelPlural>андроиды горожане Т3</AndroidT3CollectiveColonist.labelPlural>
+  <AndroidT3CollectiveColonist.labelMale>андроид горожанин Т3</AndroidT3CollectiveColonist.labelMale>
+  <AndroidT3CollectiveColonist.labelMalePlural>андроиды горожане Т3</AndroidT3CollectiveColonist.labelMalePlural>
+  <AndroidT3CollectiveColonist.labelFemale>андроид горожанин Т3</AndroidT3CollectiveColonist.labelFemale>
+  <AndroidT3CollectiveColonist.labelFemalePlural>андроиды горожане Т3</AndroidT3CollectiveColonist.labelFemalePlural>
+
+  <AndroidT1CollectiveColonist.label>андроид горожанин Т1</AndroidT1CollectiveColonist.label>
+  <AndroidT1CollectiveColonist.labelPlural>андроиды горожане Т1</AndroidT1CollectiveColonist.labelPlural>
+  <AndroidT1CollectiveColonist.labelMale>андроид горожанин Т1</AndroidT1CollectiveColonist.labelMale>
+  <AndroidT1CollectiveColonist.labelMalePlural>андроиды горожане Т1</AndroidT1CollectiveColonist.labelMalePlural>
+  <AndroidT1CollectiveColonist.labelFemale>андроид горожанин Т1</AndroidT1CollectiveColonist.labelFemale>
+  <AndroidT1CollectiveColonist.labelFemalePlural>андроиды горожане Т1</AndroidT1CollectiveColonist.labelFemalePlural>
+
+  <AndroidT2CollectiveTrader.label>андроид торговец Т2</AndroidT2CollectiveTrader.label>
+  <AndroidT2CollectiveTrader.labelPlural>андроиды торговцы Т2</AndroidT2CollectiveTrader.labelPlural>
+  <AndroidT2CollectiveTrader.labelMale>андроид торговец Т2</AndroidT2CollectiveTrader.labelMale>
+  <AndroidT2CollectiveTrader.labelMalePlural>андроиды торговцы Т2</AndroidT2CollectiveTrader.labelMalePlural>
+  <AndroidT2CollectiveTrader.labelFemale>андроид торговец Т2</AndroidT2CollectiveTrader.labelFemale>
+  <AndroidT2CollectiveTrader.labelFemalePlural>андроиды торговцы Т2</AndroidT2CollectiveTrader.labelFemalePlural>
+
+  <AndroidT1CollectiveSoldier.label>андроид солдат Т1</AndroidT1CollectiveSoldier.label>
+  <AndroidT1CollectiveSoldier.labelPlural>андроиды солдаты Т1</AndroidT1CollectiveSoldier.labelPlural>
+  <AndroidT1CollectiveSoldier.labelMale>андроид солдат Т1</AndroidT1CollectiveSoldier.labelMale>
+  <AndroidT1CollectiveSoldier.labelMalePlural>андроиды солдаты Т1</AndroidT1CollectiveSoldier.labelMalePlural>
+  <AndroidT1CollectiveSoldier.labelFemale>андроид солдат Т1</AndroidT1CollectiveSoldier.labelFemale>
+  <AndroidT1CollectiveSoldier.labelFemalePlural>андроиды солдаты Т1</AndroidT1CollectiveSoldier.labelFemalePlural>
+
+  <AndroidT2CollectiveSoldier.label>андроид солдат Т2</AndroidT2CollectiveSoldier.label>
+  <AndroidT2CollectiveSoldier.labelPlural>андроиды солдаты Т2</AndroidT2CollectiveSoldier.labelPlural>
+  <AndroidT2CollectiveSoldier.labelMale>андроид солдат Т2</AndroidT2CollectiveSoldier.labelMale>
+  <AndroidT2CollectiveSoldier.labelMalePlural>андроиды солдаты Т2</AndroidT2CollectiveSoldier.labelMalePlural>
+  <AndroidT2CollectiveSoldier.labelFemale>андроид солдат Т2</AndroidT2CollectiveSoldier.labelFemale>
+  <AndroidT2CollectiveSoldier.labelFemalePlural>андроиды солдаты Т2</AndroidT2CollectiveSoldier.labelFemalePlural>
+
+  <AndroidT3CollectiveSoldier.label>андроид солдат Т3</AndroidT3CollectiveSoldier.label>
+  <AndroidT3CollectiveSoldier.labelPlural>андроиды солдаты Т3</AndroidT3CollectiveSoldier.labelPlural>
+  <AndroidT3CollectiveSoldier.labelMale>андроид солдат Т3</AndroidT3CollectiveSoldier.labelMale>
+  <AndroidT3CollectiveSoldier.labelMalePlural>андроиды солдаты Т3</AndroidT3CollectiveSoldier.labelMalePlural>
+  <AndroidT3CollectiveSoldier.labelFemale>андроид солдат Т3</AndroidT3CollectiveSoldier.labelFemale>
+  <AndroidT3CollectiveSoldier.labelFemalePlural>андроиды солдаты Т3</AndroidT3CollectiveSoldier.labelFemalePlural>
+
+  <AndroidT4CollectiveSoldier.label>андроид солдат Т4</AndroidT4CollectiveSoldier.label>
+  <AndroidT4CollectiveSoldier.labelPlural>андроиды солдаты Т4</AndroidT4CollectiveSoldier.labelPlural>
+  <AndroidT4CollectiveSoldier.labelMale>андроид солдат Т4</AndroidT4CollectiveSoldier.labelMale>
+  <AndroidT4CollectiveSoldier.labelMalePlural>андроиды солдаты Т4</AndroidT4CollectiveSoldier.labelMalePlural>
+  <AndroidT4CollectiveSoldier.labelFemale>андроид солдат Т4</AndroidT4CollectiveSoldier.labelFemale>
+  <AndroidT4CollectiveSoldier.labelFemalePlural>андроиды солдаты Т4</AndroidT4CollectiveSoldier.labelFemalePlural>
+
+  <AndroidT4CollectiveLeader.label>андроид лидер</AndroidT4CollectiveLeader.label>
+  <AndroidT4CollectiveLeader.labelPlural>андроиды лидеры</AndroidT4CollectiveLeader.labelPlural>
+  <AndroidT4CollectiveLeader.labelMale>андроид лидер</AndroidT4CollectiveLeader.labelMale>
+  <AndroidT4CollectiveLeader.labelMalePlural>андроиды лидеры</AndroidT4CollectiveLeader.labelMalePlural>
+  <AndroidT4CollectiveLeader.labelFemale>андроид лидер</AndroidT4CollectiveLeader.labelFemale>
+  <AndroidT4CollectiveLeader.labelFemalePlural>андроиды лидеры</AndroidT4CollectiveLeader.labelFemalePlural>
+
+
+</LanguageData>

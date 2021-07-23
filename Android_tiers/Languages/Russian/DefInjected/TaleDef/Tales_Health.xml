@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidOverheating.label>перегрев андроида</AndroidOverheating.label>
+  <AndroidOverheating.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] становится все жарче</AndroidOverheating.rulePack.rulesStrings.0>
+  <AndroidOverheating.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] перегрев</AndroidOverheating.rulePack.rulesStrings.1>
+  <AndroidOverheating.rulePack.rulesStrings.2>image->[pawn_nameFull] пробирается сквозь песок [circumstance_group]</AndroidOverheating.rulePack.rulesStrings.2>
+  <AndroidOverheating.rulePack.rulesStrings.3>image->[pawn_nameFull] скрывается в тени [terrainfeature] [circumstance_group]</AndroidOverheating.rulePack.rulesStrings.3>
+  <AndroidOverheating.rulePack.rulesStrings.4>image->[pawn_nameFull] ищет помощи [circumstance_group]</AndroidOverheating.rulePack.rulesStrings.4>
+  <AndroidOverheating.rulePack.rulesStrings.5>image->[pawn_nameFull] ищет тень [circumstance_group]</AndroidOverheating.rulePack.rulesStrings.5>
+  <AndroidOverheating.rulePack.rulesStrings.6>image->[pawn_nameFull] ползет по запеченной солнцем грязи [circumstance_group]</AndroidOverheating.rulePack.rulesStrings.6>
+  <AndroidOverheating.rulePack.rulesStrings.7>circumstance_phrase->со своим металлическим каркасом раскалился добела</AndroidOverheating.rulePack.rulesStrings.7>
+  <AndroidOverheating.rulePack.rulesStrings.8>circumstance_phrase->и все больше и больше его разум поджаривается</AndroidOverheating.rulePack.rulesStrings.8>
+  <AndroidOverheating.rulePack.rulesStrings.9>circumstance_phrase->с обожженными схемами</AndroidOverheating.rulePack.rulesStrings.9>
+  <AndroidOverheating.rulePack.rulesStrings.10>circumstance_phrase->в то время как неисправен</AndroidOverheating.rulePack.rulesStrings.10>
+  <AndroidOverheating.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] иссушенные трупы [animal] окружают местность.</AndroidOverheating.rulePack.rulesStrings.11>
+  <AndroidOverheating.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] порвана и разорвана одежда.</AndroidOverheating.rulePack.rulesStrings.12>
+  <AndroidOverheating.rulePack.rulesStrings.13>desc_sentence->На заднем плане вырисовывается пылающее солнце.</AndroidOverheating.rulePack.rulesStrings.13>
+  <AndroidOverheating.rulePack.rulesStrings.14>desc_sentence->Сцена происходит в пределах пылающей пустыни.</AndroidOverheating.rulePack.rulesStrings.14>
+  <AndroidOverheating.rulePack.rulesStrings.15>desc_sentence->Сцена, кажется, происходит внутри, рядом с печью.</AndroidOverheating.rulePack.rulesStrings.15>
+  <AndroidOverheating.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] неподвижные [animal]ы(и) окружают сцену.</AndroidOverheating.rulePack.rulesStrings.16>
+  <AndroidOverheating.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] умирающие [animal]ы(и) заполонили землю.</AndroidOverheating.rulePack.rulesStrings.17>
+
+  <AndroidFreezing.label>замерзание андроида</AndroidFreezing.label>
+  <AndroidFreezing.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] замерзание</AndroidFreezing.rulePack.rulesStrings.0>
+  <AndroidFreezing.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] замерзание до остановки</AndroidFreezing.rulePack.rulesStrings.1>
+  <AndroidFreezing.rulePack.rulesStrings.2>image->[pawn_nameFull] пробирается сквозь снег [circumstance_group]</AndroidFreezing.rulePack.rulesStrings.2>
+  <AndroidFreezing.rulePack.rulesStrings.3>image->[pawn_nameFull] прижимается к [terrainfeature] [circumstance_group]</AndroidFreezing.rulePack.rulesStrings.3>
+  <AndroidFreezing.rulePack.rulesStrings.4>image->[pawn_nameFull] ищет тепло [apparel] [circumstance_group]</AndroidFreezing.rulePack.rulesStrings.4>
+  <AndroidFreezing.rulePack.rulesStrings.5>image->[pawn_nameFull] присаживается рядом с огнем [circumstance_group]</AndroidFreezing.rulePack.rulesStrings.5>
+  <AndroidFreezing.rulePack.rulesStrings.6>image->[pawn_nameFull] пытается зажечь огонь [circumstance_group]</AndroidFreezing.rulePack.rulesStrings.6>
+  <AndroidFreezing.rulePack.rulesStrings.7>circumstance_phrase->в то же время его механизмы застывают</AndroidFreezing.rulePack.rulesStrings.7>
+  <AndroidFreezing.rulePack.rulesStrings.8>circumstance_phrase->и не в состоянии сосредоточиться</AndroidFreezing.rulePack.rulesStrings.8>
+  <AndroidFreezing.rulePack.rulesStrings.9>circumstance_phrase->в то же время покрывается инеем</AndroidFreezing.rulePack.rulesStrings.9>
+  <AndroidFreezing.rulePack.rulesStrings.10>circumstance_phrase->медленно теряя внимание</AndroidFreezing.rulePack.rulesStrings.10>
+  <AndroidFreezing.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] трупы замерших [animal] окружают местность.</AndroidFreezing.rulePack.rulesStrings.11>
+  <AndroidFreezing.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] порвана и разорвана одежда.</AndroidFreezing.rulePack.rulesStrings.12>
+  <AndroidFreezing.rulePack.rulesStrings.13>desc_sentence->На заднем плане сияет холодная синяя луна.</AndroidFreezing.rulePack.rulesStrings.13>
+  <AndroidFreezing.rulePack.rulesStrings.14>desc_sentence->Сцена проходит в заснеженном [tree] лесу.</AndroidFreezing.rulePack.rulesStrings.14>
+  <AndroidFreezing.rulePack.rulesStrings.15>desc_sentence->Сцене происходит в таежных биомах.</AndroidFreezing.rulePack.rulesStrings.15>
+  <AndroidFreezing.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] дрожащие [animal]ы(и) окружают сцену.</AndroidFreezing.rulePack.rulesStrings.16>
+  <AndroidFreezing.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] умирающие [animal]ы(и) заполонили землю.</AndroidFreezing.rulePack.rulesStrings.17>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairKitAT.label>сделать ремкомплект</RepairKitAT.label>
+  <RepairKitAT.description>Сделать простой набор инструментов и материалов для ремкомплекта андроида.</RepairKitAT.description>
+  <RepairKitAT.jobString>делает ремкомплект</RepairKitAT.jobString>
+
+  <AIPersonaCore.label>сделать ядро ИИ личности</AIPersonaCore.label>
+  <AIPersonaCore.description>Сделать комплексное ядро ИИ способное к сознательности.</AIPersonaCore.description>
+  <AIPersonaCore.jobString>делает ядро ИИ</AIPersonaCore.jobString>
+
+  <CreateT1AndroidKit.label>сделать набор андроида Т1</CreateT1AndroidKit.label>
+  <CreateT1AndroidKit.description>Сделать набор андроида Т1 из пластали и компонентов.</CreateT1AndroidKit.description>
+  <CreateT1AndroidKit.jobString>делает андроида</CreateT1AndroidKit.jobString>
+
+  <CreateT2AndroidKit.label>сделать набор андроида Т2</CreateT2AndroidKit.label>
+  <CreateT2AndroidKit.description>Сделать набор андроида Т2 из пластали и компонентов.</CreateT2AndroidKit.description>
+  <CreateT2AndroidKit.jobString>делает андроида</CreateT2AndroidKit.jobString>
+
+
+</LanguageData>

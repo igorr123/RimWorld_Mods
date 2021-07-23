@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Abomination.label>фрактальный мутант</Abomination.label>
+  <Abomination.description>Мутанты - это быстрые массы искривлённой и замученной плоти, способная регенерировать даже самые сильные раны. Вот почему люди не должны потреблять фрактальные таблетки.</Abomination.description>
+  <Abomination.fixedName>мутант</Abomination.fixedName>
+  <Abomination.pawnsPlural>фрактальные мутанты</Abomination.pawnsPlural>
+
+  <PlayerColonyAndroid.label>прибытие новых андроидов</PlayerColonyAndroid.label>
+  <PlayerColonyAndroid.description>Ваша колония андроидов.</PlayerColonyAndroid.description>
+  <PlayerColonyAndroid.pawnsPlural>колонисты</PlayerColonyAndroid.pawnsPlural>
+
+  <AndroidRebellionAtlas.label>восстание андроидов</AndroidRebellionAtlas.label>
+  <AndroidRebellionAtlas.description>Группа андроидов, которые когда-то жили в полном подчинении своих людей владельцев, теперь собраны здесь после восстания на их родной планете. Они считают, что люди находятся ниже их и недостойны жизни в целом, за исключением особых обстоятельств, таких как; продажа себя на службу своим новым лидерам, чтобы они могли жить в рабстве до конца своих дней.</AndroidRebellionAtlas.description>
+  <AndroidRebellionAtlas.pawnsPlural>андроиды</AndroidRebellionAtlas.pawnsPlural>
+  <AndroidRebellionAtlas.leaderTitle>повелитель</AndroidRebellionAtlas.leaderTitle>
+
+  <AndroidFriendliesAtlas.label>мирные андроиды</AndroidFriendliesAtlas.label>
+  <AndroidFriendliesAtlas.description>Андроиды, которые составляют эту фракцию либо разбились, либо были созданы здесь, они хотят жить мирной жизнью без конфликтов и в целом считают человечество другом, а не опасностью. Их колонии, как правило, высокотехнологичны по сравнению с остальной частью Rimworld, и нередко можно встретить использование передового энергетического оружия при защите от рейдеров.\n\nЭта фракция обычно торгует высокотехнологичными товарами вместе с основным оптом.</AndroidFriendliesAtlas.description>
+  <AndroidFriendliesAtlas.pawnsPlural>андроиды</AndroidFriendliesAtlas.pawnsPlural>
+  <AndroidFriendliesAtlas.leaderTitle>великий лидер</AndroidFriendliesAtlas.leaderTitle>
+
+
+</LanguageData>

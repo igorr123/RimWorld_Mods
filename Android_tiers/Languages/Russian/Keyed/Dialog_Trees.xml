@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidFactionGreetingHostileI>Воспроизводится автоматическое сообщение, требующее, чтобы вы сделали жест доброй воли как; принести подарки в одно из поселений {0_possessive} или освободить заключенных фракции {0_possessive} целыми и невредимыми. До тех пор {0} не хочет говорить.</AndroidFactionGreetingHostileI>
+  <AndroidFactionGreetingHostileII>{0} сравнивает вашу колонию с дикими племенами, утверждая, что если вы хотите улучшить себя, вы можете принести подарки одному из {0_possessive} поселений или освободить заключенных фракции {0_possessive} целыми и невредимыми.</AndroidFactionGreetingHostileII>
+  <AndroidFactionGreetingHostileIII>{0} зовет вас холодными, чудовищными существами, прежде чем быстро прервать все коммуникации.</AndroidFactionGreetingHostileIII>
+
+  <AndroidFactionGreetingWaryI>Глубокий механический голос {0} приветствует {NEGOTIATOR_labelShort}, спрашивая, каким бизнесом вы хотите заняться.</AndroidFactionGreetingWaryI>
+  <AndroidFactionGreetingWaryII>Запускается автоматическое сообщение с запросом {NEGOTIATOR_labelShort}, какой у них бизнес.</AndroidFactionGreetingWaryII>
+  <AndroidFactionGreetingWaryIII>{0} осторожно открывает сообщения {NEGOTIATOR_labelShort}, спрашивая, о каком бизнесе вы хотите поговорить.</AndroidFactionGreetingWaryIII>
+
+  <AndroidFactionGreetingWarmI>{0} тепло приветствует {NEGOTIATOR_labelShort}, спрашивая, что они могут сделать, чтобы помочь вам.</AndroidFactionGreetingWarmI>
+  <AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} встречают добрыми словами, {0} спрашивает, что они могут сделать для союзника.</AndroidFactionGreetingWarmII>
+  <AndroidFactionGreetingWarmIII>{0} приветствует {NEGOTIATOR_labelShort} с распростертыми объятиями, спрашивая, что они могут сделать для вас.</AndroidFactionGreetingWarmIII>
+
+</LanguageData>

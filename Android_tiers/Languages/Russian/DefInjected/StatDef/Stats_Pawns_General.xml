@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidSurgerySuccessChance.label>шанс успеха операции андроида</AndroidSurgerySuccessChance.label>
+  <AndroidSurgerySuccessChance.description>Базовая вероятность того, что персонажу удастся выполнить операцию на андроиде. Фактический шанс успеха также зависит от таких факторов, как удобство, чистота помещения, используемые медикаменты, сложность операции и вдохновение. Независимо от того насколько высока вероятность успеха, всегда есть небольшая вероятность неудачи при любой операции.</AndroidSurgerySuccessChance.description>
+
+  <AndroidSurgerySuccessChanceFactor.label>фактор хирургического успеха андроида</AndroidSurgerySuccessChanceFactor.label>
+  <AndroidSurgerySuccessChanceFactor.description>Множитель шанса, что операция на андроиде будет успешной при выполнении. На шансы успеха в хирургии над андроидом также влияют многие другие факторы, в том числе навыки механика.</AndroidSurgerySuccessChanceFactor.description>
+
+
+</LanguageData>

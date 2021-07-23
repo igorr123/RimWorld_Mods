@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Intolerance.degreeDatas.0.label>нетерпимость</Intolerance.degreeDatas.0.label>
+  <Intolerance.degreeDatas.0.description>{PAWN_nameDef} нетерпимо относится ко всем формам жизни, будь то механические или биологические. Всегда есть шанс, что он будет случайным образом провоцировать ссоры, особенно когда его настроение низкое.</Intolerance.degreeDatas.0.description>
+
+  <FeelingsTowardHumanity.degreeDatas.0.label>любит человечество</FeelingsTowardHumanity.degreeDatas.0.label>
+  <FeelingsTowardHumanity.degreeDatas.0.description>{PAWN_nameDef} глубоко любит всех людей, рассматривая их не только как своих создателей, но и как родителей.</FeelingsTowardHumanity.degreeDatas.0.description>
+  <FeelingsTowardHumanity.degreeDatas.1.label>ненавидит человечество</FeelingsTowardHumanity.degreeDatas.1.label>
+  <FeelingsTowardHumanity.degreeDatas.1.description>{PAWN_nameDef} глубоко ненавидит все человечество, рассматривая их, как не более чем эгоистичные мешки мяса.</FeelingsTowardHumanity.degreeDatas.1.description>
+
+
+</LanguageData>

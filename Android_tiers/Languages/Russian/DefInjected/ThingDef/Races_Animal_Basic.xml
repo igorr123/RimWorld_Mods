@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidMuff.label>юнит M.U.F.F</AndroidMuff.label>
+  <AndroidMuff.description>Этот роботизированный юнит имеет родство с муффало этой планеты, с исключительной силой и регулированием температуры, что намного превосходит его биологического кузена.</AndroidMuff.description>
+  <AndroidMuff.tools.0.label>голова</AndroidMuff.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AndroidMuff_Corpse.label>труп юнита M.U.F.F</AndroidMuff_Corpse.label>
+  <AndroidMuff_Corpse.description>Труп юнита M.U.F.F</AndroidMuff_Corpse.description>
+
+  <AndroidChicken.label>юнит хим обработки</AndroidChicken.label>
+  <AndroidChicken.description>Небольшая машина, которая потребляет близлежащую биологическую материю и перерабатывает её в полуочищенный ресурс. Полезно для производства химического топлива и нейтроамина.</AndroidChicken.description>
+  <AndroidChicken.tools.0.label>голова</AndroidChicken.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AndroidChicken_Corpse.label>труп юнита хим обработки</AndroidChicken_Corpse.label>
+  <AndroidChicken_Corpse.description>Труп юнита хим обработки.</AndroidChicken_Corpse.description>
+
+
+</LanguageData>

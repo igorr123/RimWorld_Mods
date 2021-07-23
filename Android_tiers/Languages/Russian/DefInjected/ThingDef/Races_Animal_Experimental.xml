@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidDog.label>кибернетический юнит К-9</AndroidDog.label>
+  <AndroidDog.description>Тяжело бронированные кибернетические машины, похожие на собак. Они оснащены очень сильной гидравлической челюстью и острыми как бритвы когтями. Ранее они использовались во время войны на урбанистических мирах как форма «контроля толпы».</AndroidDog.description>
+  <AndroidDog.tools.0.label>левый коготь</AndroidDog.tools.0.label>
+  <AndroidDog.tools.1.label>правый коготь</AndroidDog.tools.1.label>
+  <AndroidDog.tools.3.label>голова</AndroidDog.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AndroidDog_Corpse.label>труп кибернетического юнита К-9</AndroidDog_Corpse.label>
+  <AndroidDog_Corpse.description>Труп кибернетического юнита К-9.</AndroidDog_Corpse.description>
+
+
+</LanguageData>

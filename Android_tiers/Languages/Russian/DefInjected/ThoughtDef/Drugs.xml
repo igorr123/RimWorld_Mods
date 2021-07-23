@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HediffAndroid -->
+
+  <RegenHumanoid_Thought.stages.0.label>моно-смазка скрытое</RegenHumanoid_Thought.stages.0.label>
+  <RegenHumanoid_Thought.stages.0.description>Не должно появляться.</RegenHumanoid_Thought.stages.0.description>
+  <RegenHumanoid_Thought.stages.1.label>моно-смазка (слабое)</RegenHumanoid_Thought.stages.1.label>
+  <RegenHumanoid_Thought.stages.1.description>У меня повсюду есть иголки и шпильки. Это потрясающе.</RegenHumanoid_Thought.stages.1.description>
+  <RegenHumanoid_Thought.stages.2.label>моно-смазка (среднее)</RegenHumanoid_Thought.stages.2.label>
+  <RegenHumanoid_Thought.stages.2.description>Мое тело чувствует себя медленным, а так же небольшая боль в конечностях.</RegenHumanoid_Thought.stages.2.description>
+  <RegenHumanoid_Thought.stages.3.label>моно-смазка (сильное)</RegenHumanoid_Thought.stages.3.label>
+  <RegenHumanoid_Thought.stages.3.description>Мои руки чувствуют себя тяжелыми и вялыми, как будто что-то высасывает всю мою энергию.</RegenHumanoid_Thought.stages.3.description>
+  <RegenHumanoid_Thought.stages.4.label>моно-смазка (пик)</RegenHumanoid_Thought.stages.4.label>
+  <RegenHumanoid_Thought.stages.4.description>Мои вены болят, и мое зрение кружится. Это очень больно.</RegenHumanoid_Thought.stages.4.description>
+
+
+</LanguageData>

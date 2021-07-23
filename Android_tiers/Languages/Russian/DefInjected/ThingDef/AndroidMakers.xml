@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <T1AndroidGeneratorAI.label>андроид Т1</T1AndroidGeneratorAI.label>
+  <T1AndroidGeneratorAI.description>Созданный андроид колонист.</T1AndroidGeneratorAI.description>
+
+  <T2AndroidGeneratorAI.label>андроид Т2</T2AndroidGeneratorAI.label>
+  <T2AndroidGeneratorAI.description>Созданный андроид колонист.</T2AndroidGeneratorAI.description>
+
+  <T3AndroidGeneratorAI.label>андроид Т3</T3AndroidGeneratorAI.label>
+  <T3AndroidGeneratorAI.description>Созданный андроид колонист.</T3AndroidGeneratorAI.description>
+
+  <T4AndroidGeneratorAI.label>андроид Т4</T4AndroidGeneratorAI.label>
+  <T4AndroidGeneratorAI.description>Созданный андроид колонист.</T4AndroidGeneratorAI.description>
+
+  <DoggoAndroidGeneratorAI.label>юнит К-9</DoggoAndroidGeneratorAI.label>
+  <DoggoAndroidGeneratorAI.description>Созданный андроид колонист.</DoggoAndroidGeneratorAI.description>
+
+  <MuffAndroidGeneratorAI.label>юнит M.U.F.F</MuffAndroidGeneratorAI.label>
+  <MuffAndroidGeneratorAI.description>Созданный андроид колонист.</MuffAndroidGeneratorAI.description>
+
+  <ChickAndroidGeneratorAI.label>юнит хим обработки</ChickAndroidGeneratorAI.label>
+  <ChickAndroidGeneratorAI.description>CСозданный андроид колонист.</ChickAndroidGeneratorAI.description>
+
+  <SheepAndroidGeneratorAI.label>юнит фитодобычи</SheepAndroidGeneratorAI.label>
+  <SheepAndroidGeneratorAI.description>Созданный андроид колонист.</SheepAndroidGeneratorAI.description>
+
+  <CowAndroidGeneratorAI.label>юнит N-раствора</CowAndroidGeneratorAI.label>
+  <CowAndroidGeneratorAI.description>Созданный андроид колонист.</CowAndroidGeneratorAI.description>
+
+  <MicroScytherGeneratorAI.label>микрожнец</MicroScytherGeneratorAI.label>
+  <MicroScytherGeneratorAI.description>Созданный андроид колонист.</MicroScytherGeneratorAI.description>
+
+
+</LanguageData>

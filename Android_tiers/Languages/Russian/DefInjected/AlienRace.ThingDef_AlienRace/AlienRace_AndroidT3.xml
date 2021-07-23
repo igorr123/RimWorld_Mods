@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android3Tier.label>андроид Т3</Android3Tier.label>
+  <Android3Tier.description>Прототип андроида, эксклюзивный для этого мира; разработанный секретной лабораторией R/D вдали от глаз остальной части планет и космоса. Этот андроид обладает высоко продвинутыми двигательными и моторными способностями, идеально имитирующими способности обычного человека. Несмотря на неуклюжесть и некоторую медлительность - этот андроид имеет модульную конструкцию компонентов, позволяющую в любой момент модернизировать имеющиеся части.</Android3Tier.description>
+  <Android3Tier.tools.0.label>правый кулак</Android3Tier.tools.0.label>
+  <Android3Tier.tools.1.label>левый кулак</Android3Tier.tools.1.label>
+  <Android3Tier.tools.2.label>голова</Android3Tier.tools.2.label>
+
+
+</LanguageData>

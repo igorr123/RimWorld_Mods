@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedAndroid.label>незаконченный андроид</UnfinishedAndroid.label>
+
+  <AndroidProductionVat.label>контейнер производства робототехники</AndroidProductionVat.label>
+  <AndroidProductionVat.description>Контейнер, который создает андроидов и их части при загрузке материалов, и умеренного уровня участия человека.</AndroidProductionVat.description>
+  <AndroidProductionVat_Blueprint.label>контейнер производства робототехники (проект)</AndroidProductionVat_Blueprint.label>
+  <AndroidProductionVat_Blueprint_Install.label>контейнер производства робототехники (проект)</AndroidProductionVat_Blueprint_Install.label>
+  <AndroidProductionVat_Frame.label>контейнер производства робототехники (постройка)</AndroidProductionVat_Frame.label>
+
+  <AndroidOtherStuffTable.label>верстак имплантов андроидов</AndroidOtherStuffTable.label>
+  <AndroidOtherStuffTable.description>Этот верстак содержит все необходимое для создания высокотехнологичных имплантов, а также различных химических смесей.</AndroidOtherStuffTable.description>
+  <AndroidOtherStuffTable_Blueprint.label>верстак имплантов андроидов (проект)</AndroidOtherStuffTable_Blueprint.label>
+  <AndroidOtherStuffTable_Blueprint_Install.label>верстак имплантов андроидов (проект)</AndroidOtherStuffTable_Blueprint_Install.label>
+  <AndroidOtherStuffTable_Frame.label>верстак имплантов андроидов (постройка)</AndroidOtherStuffTable_Frame.label>
+
+  <AndroidPartsTable.label>верстак частей андроидов</AndroidPartsTable.label>
+  <AndroidPartsTable.description>Верстак, который содержит все оборудование, необходимое для изготовления различных запасных частей для андроидов.</AndroidPartsTable.description>
+  <AndroidPartsTable_Blueprint.label>верстак частей андроидов (проект)</AndroidPartsTable_Blueprint.label>
+  <AndroidPartsTable_Blueprint_Install.label>верстак частей андроидов (проект)</AndroidPartsTable_Blueprint_Install.label>
+  <AndroidPartsTable_Frame.label>верстак частей андроидов (постройка)</AndroidPartsTable_Frame.label>
+
+
+</LanguageData>

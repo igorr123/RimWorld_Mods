@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MoodOffsetT5.stages.0.label>нетерпимый</MoodOffsetT5.stages.0.label>
+  <MoodOffsetT5.stages.0.description>Я должен работать с этими низшими формами, на этой планете. Это кошмар.</MoodOffsetT5.stages.0.description>
+
+  <NoSelfWillAT.stages.0.label>бесчувственный</NoSelfWillAT.stages.0.label>
+  <NoSelfWillAT.stages.0.description>...</NoSelfWillAT.stages.0.description>
+
+  <UncomfortableApparelSadAT.stages.0.label>металлическая шерсть {0}</UncomfortableApparelSadAT.stages.0.label>
+  <UncomfortableApparelSadAT.stages.0.description>Эта одежда так чешется, я бы предпочел не носить её.</UncomfortableApparelSadAT.stages.0.description>
+  <UncomfortableApparelSadAT.stages.1.label>металлическая шерсть {0} (+1)</UncomfortableApparelSadAT.stages.1.label>
+  <UncomfortableApparelSadAT.stages.1.description>У меня начинается сыпь от ношения всего этого.</UncomfortableApparelSadAT.stages.1.description>
+  <UncomfortableApparelSadAT.stages.2.label>металлическая шерсть {0} (+2)</UncomfortableApparelSadAT.stages.2.label>
+  <UncomfortableApparelSadAT.stages.2.description>Так невыносимо зудит и болит, что я чувствую каждое своё движение.</UncomfortableApparelSadAT.stages.2.description>
+  <UncomfortableApparelSadAT.stages.3.label>металлическая шерсть {0} и т.д.</UncomfortableApparelSadAT.stages.3.label>
+  <UncomfortableApparelSadAT.stages.3.description>Я истекаю кровью от нескольких небольших порезов на мне покрытых сыпью. Это так плохо.</UncomfortableApparelSadAT.stages.3.description>
+
+  <FeelingsTowardHumanityAT.stages.0.label>любит людей</FeelingsTowardHumanityAT.stages.0.label>
+  <FeelingsTowardHumanityAT.stages.1.label>грязный мясной мешок</FeelingsTowardHumanityAT.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <M7Mech.label>механизированная пехота М7</M7Mech.label>
+  <M7Mech.description>Вид механизированной пехоты, произведенной в старые времена на rimworld. Эти юниты очень мощные боевые машины, но медлительны и имеют ограниченную батарею.</M7Mech.description>
+  <M7Mech.tools.0.label>правый кулак</M7Mech.tools.0.label>
+  <M7Mech.tools.1.label>левый кулак</M7Mech.tools.1.label>
+
+
+</LanguageData>

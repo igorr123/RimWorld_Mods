@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateT1Android.label>сделать пустого андроида Т1</CreateT1Android.label>
+  <CreateT1Android.description>Сделать пустого андроида Т1 из пластали и компонентов.</CreateT1Android.description>
+  <CreateT1Android.jobString>делает андроида</CreateT1Android.jobString>
+
+  <CreateT2Android.label>сделать пустого андроида Т2</CreateT2Android.label>
+  <CreateT2Android.description>Сделать пустого андроида Т2 из пластали, золота и компонентов.</CreateT2Android.description>
+  <CreateT2Android.jobString>делает андроида</CreateT2Android.jobString>
+
+  <CreateT3Android.label>сделать пустого андроида Т3</CreateT3Android.label>
+  <CreateT3Android.description>Сделать пустого андроида Т3 из пластали, золота и продвинутых компонентов.</CreateT3Android.description>
+  <CreateT3Android.jobString>делает андроида</CreateT3Android.jobString>
+
+  <CreateT4Android.label>сделать пустого андроида Т4</CreateT4Android.label>
+  <CreateT4Android.description>Сделать пустого андроида Т4 из пластали, золота и продвинутых компонентов.</CreateT4Android.description>
+  <CreateT4Android.jobString>делает андроида</CreateT4Android.jobString>
+
+  <CreateCyberDog.label>сделать пустого кибернетического юнита К9</CreateCyberDog.label>
+  <CreateCyberDog.description>Сделать пустого кибернетического юнита К9 из пластали и компонентов. Чрезвычайно проворный юнит ближнего боя, который с лёгкостью может убить человека.</CreateCyberDog.description>
+  <CreateCyberDog.jobString>делает андроида</CreateCyberDog.jobString>
+
+  <CreateCyberMuff.label>сделать пустого юнита M.U.F.F</CreateCyberMuff.label>
+  <CreateCyberMuff.description>Сделать пустого юнита M.U.F.F из пластали и компонентов. Грузовая машина, которая чрезвычайно полезна для длительных путешествий каравана.</CreateCyberMuff.description>
+  <CreateCyberMuff.jobString>делает андроида</CreateCyberMuff.jobString>
+
+  <CreateCyberSheep.label>сделать юнита фитодобычи</CreateCyberSheep.label>
+  <CreateCyberSheep.description>Сделать пустого юнита фитотобычи из пластали и компонентов. Мобильная единица, которая производит металлическую шерсть за счет высокой степени голода.</CreateCyberSheep.description>
+  <CreateCyberSheep.jobString>делает андроида</CreateCyberSheep.jobString>
+
+  <CreateCyberCow.label>сделать юнита N-раствора</CreateCyberCow.label>
+  <CreateCyberCow.description>Сделать пустого юнита N-раствора из пластали и компонентов. Мобильная единица, которая производит высококалорийный питательный раствор за счет высокой степени голода.</CreateCyberCow.description>
+  <CreateCyberCow.jobString>делает андроида</CreateCyberCow.jobString>
+
+  <CreateCyberChick.label>сделать юнит хим обработки</CreateCyberChick.label>
+  <CreateCyberChick.description>Сделать пустого юнита химической обработки из пластали и компонентов. Небольшая мобильная единица, которая потребляет близлежащие биологические вещества и перерабатывает их в полуочищенный ресурс. Полезно для производства химического топлива и нейтроамина.</CreateCyberChick.description>
+  <CreateCyberChick.jobString>делает андроида</CreateCyberChick.jobString>
+
+
+</LanguageData>

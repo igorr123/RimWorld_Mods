@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidBackstory.title>механический колонист</AndroidBackstory.title>
+  <AndroidBackstory.titleShort>андроид</AndroidBackstory.titleShort>
+  <AndroidBackstory.baseDescription>[PAWN_nameDef] - это разумная машина, способная демонстрировать высокий интеллект, недавно рожденный из своего строительного блока. То, что они сделают из своей жизни, теперь зависит от них.</AndroidBackstory.baseDescription>
+
+  <T5Backstory.title>превосходный андроинд</T5Backstory.title>
+  <T5Backstory.titleShort>необыкновенный</T5Backstory.titleShort>
+  <T5Backstory.baseDescription>[PAWN_nameDef] - высокотехнологичный андроид, он происходит из цивилизации, где человеческое население перешло в механические или квантовые формы чистого совершенства.</T5Backstory.baseDescription>
+
+
+</LanguageData>

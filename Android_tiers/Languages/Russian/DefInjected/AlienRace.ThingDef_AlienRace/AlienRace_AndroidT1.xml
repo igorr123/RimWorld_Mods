@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android1Tier.label>андроид Т1</Android1Tier.label>
+  <Android1Tier.description>Простой разумный робот. Эта конструкция представляет собой открытые скелетные компоненты, необходимые для создания полной автономной функциональности. Очевидно, что это не самое лучшее решение, но работает исправно.</Android1Tier.description>
+  <Android1Tier.tools.0.label>правый кулак</Android1Tier.tools.0.label>
+  <Android1Tier.tools.1.label>левый кулак</Android1Tier.tools.1.label>
+  <Android1Tier.tools.2.label>голова</Android1Tier.tools.2.label>
+
+
+</LanguageData>

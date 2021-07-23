@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateCompositePlating.label>сделать композитную обшивку</CreateCompositePlating.label>
+  <CreateCompositePlating.description>Сделать композитную обшивку.</CreateCompositePlating.description>
+  <CreateCompositePlating.jobString>делает часть</CreateCompositePlating.jobString>
+
+  <CreatePlasteelPlating.label>сделать пласталевую обшивку</CreatePlasteelPlating.label>
+  <CreatePlasteelPlating.description>Сделать пласталевую обшивку.</CreatePlasteelPlating.description>
+  <CreatePlasteelPlating.jobString>делает часть</CreatePlasteelPlating.jobString>
+
+  <CreateSteelPlating.label>сделать стальную обшивку</CreateSteelPlating.label>
+  <CreateSteelPlating.description>Сделать стальную обшивку.</CreateSteelPlating.description>
+  <CreateSteelPlating.jobString>делает часть</CreateSteelPlating.jobString>
+
+
+  <!-- Basic Replacements -->
+
+  <CreateDrillArm.label>сделать шахтёрскую руку</CreateDrillArm.label>
+  <CreateDrillArm.description>Сделать шахтёрскую руку андроида.</CreateDrillArm.description>
+  <CreateDrillArm.jobString>делает часть</CreateDrillArm.jobString>
+
+  <CreateHydraulicLeg.label>сделать гидравлическую ногу</CreateHydraulicLeg.label>
+  <CreateHydraulicLeg.description>Сделать гидравлическую ногу андроида.</CreateHydraulicLeg.description>
+  <CreateHydraulicLeg.jobString>делает часть</CreateHydraulicLeg.jobString>
+
+  <CreateHydraulicArm.label>сделать гидравлическую руку</CreateHydraulicArm.label>
+  <CreateHydraulicArm.description>Сделать гидравлическую руку андроида.</CreateHydraulicArm.description>
+  <CreateHydraulicArm.jobString>делает часть</CreateHydraulicArm.jobString>
+
+  <CreateHydraulicFrame.label>сделать гидравлический каркас</CreateHydraulicFrame.label>
+  <CreateHydraulicFrame.description>Сделать гидравлический каркас андроида.</CreateHydraulicFrame.description>
+  <CreateHydraulicFrame.jobString>делает часть</CreateHydraulicFrame.jobString>
+
+  <CreateBArm.label>сделать базовую замену руки</CreateBArm.label>
+  <CreateBArm.description>Сделать базовую замену руки андроида.</CreateBArm.description>
+  <CreateBArm.jobString>делает часть</CreateBArm.jobString>
+
+  <CreateBLeg.label>сделать базовую замену ноги</CreateBLeg.label>
+  <CreateBLeg.description>Сделать базовую замену ноги андроида.</CreateBLeg.description>
+  <CreateBLeg.jobString>делает часть</CreateBLeg.jobString>
+
+  <CreateLightReceivingDiode.label>сделать светопроводящий диод</CreateLightReceivingDiode.label>
+  <CreateLightReceivingDiode.description>Сделать светопроводящий диод.</CreateLightReceivingDiode.description>
+  <CreateLightReceivingDiode.jobString>делает часть</CreateLightReceivingDiode.jobString>
+
+  <CreateCrudeHeatsink.label>сделать примитивный радиатор</CreateCrudeHeatsink.label>
+  <CreateCrudeHeatsink.description>Сделать примитивный радиатор.</CreateCrudeHeatsink.description>
+  <CreateCrudeHeatsink.jobString>делает часть</CreateCrudeHeatsink.jobString>
+
+  <CreateFlimsyCoolantPump.label>сделать хрупкий насос хладагента</CreateFlimsyCoolantPump.label>
+  <CreateFlimsyCoolantPump.description>Сделать хрупкий насос хладагента.</CreateFlimsyCoolantPump.description>
+  <CreateFlimsyCoolantPump.jobString>делает часть</CreateFlimsyCoolantPump.jobString>
+
+  <CreateSmallBatteryPack.label>сделать малый блок батарей</CreateSmallBatteryPack.label>
+  <CreateSmallBatteryPack.description>Сделать малый блок батарей.</CreateSmallBatteryPack.description>
+  <CreateSmallBatteryPack.jobString>делает часть</CreateSmallBatteryPack.jobString>
+
+  <CreateTubeSealantTank.label>сделать трубчатый герметик</CreateTubeSealantTank.label>
+  <CreateTubeSealantTank.description>Сделать трубчатый герметик.</CreateTubeSealantTank.description>
+  <CreateTubeSealantTank.jobString>делает часть</CreateTubeSealantTank.jobString>
+
+  <CreateLowPowerTransformer.label>сделать конвертер клетчатки</CreateLowPowerTransformer.label>
+  <CreateLowPowerTransformer.description>Сделать маломощный, неэффективный конвертер клетчатки</CreateLowPowerTransformer.description>
+  <CreateLowPowerTransformer.jobString>делает часть</CreateLowPowerTransformer.jobString>
+
+  <CreateBasicDCConverter.label>сделать базовый преобразователь постоянного тока</CreateBasicDCConverter.label>
+  <CreateBasicDCConverter.description>Сделать базовый преобразователь постоянного тока.</CreateBasicDCConverter.description>
+  <CreateBasicDCConverter.jobString>делает часть</CreateBasicDCConverter.jobString>
+
+
+  <!-- Advanced -->
+
+  <CreateAdvancedReplacementLeg.label>сделать мощную ногу</CreateAdvancedReplacementLeg.label>
+  <CreateAdvancedReplacementLeg.description>Сделать мощную ногу.</CreateAdvancedReplacementLeg.description>
+  <CreateAdvancedReplacementLeg.jobString>делает часть</CreateAdvancedReplacementLeg.jobString>
+
+  <CreateAdvancedReplacementArm.label>сделать мощную руку</CreateAdvancedReplacementArm.label>
+  <CreateAdvancedReplacementArm.description>Сделать мощную руку.</CreateAdvancedReplacementArm.description>
+  <CreateAdvancedReplacementArm.jobString>делает часть</CreateAdvancedReplacementArm.jobString>
+
+  <CreateMultiSpectrumEye.label>сделать многоспектральный глаз</CreateMultiSpectrumEye.label>
+  <CreateMultiSpectrumEye.description>Сделать многоспектральный глаз.</CreateMultiSpectrumEye.description>
+  <CreateMultiSpectrumEye.jobString>делает часть</CreateMultiSpectrumEye.jobString>
+
+  <CreateMultiLayerHeatsink.label>сделать многослойный радиатор</CreateMultiLayerHeatsink.label>
+  <CreateMultiLayerHeatsink.description>Сделать многослойный радиатор.</CreateMultiLayerHeatsink.description>
+  <CreateMultiLayerHeatsink.jobString>делает часть</CreateMultiLayerHeatsink.jobString>
+
+  <CreateAdvancedCoolantInjector.label>сделать передовой инжектор хладагента</CreateAdvancedCoolantInjector.label>
+  <CreateAdvancedCoolantInjector.description>Сделать передовой инжектор хладагента.</CreateAdvancedCoolantInjector.description>
+  <CreateAdvancedCoolantInjector.jobString>делает часть</CreateAdvancedCoolantInjector.jobString>
+
+  <CreateNanowireBattery.label>сделать нанопроводной аккумулятор</CreateNanowireBattery.label>
+  <CreateNanowireBattery.description>Сделать нанопроводной аккумулятор.</CreateNanowireBattery.description>
+  <CreateNanowireBattery.jobString>делает часть</CreateNanowireBattery.jobString>
+
+  <CreateNaniteStorageDevice.label>сделать устройство хранения нанитов</CreateNaniteStorageDevice.label>
+  <CreateNaniteStorageDevice.description>Сделать устройство хранения нанитов.</CreateNaniteStorageDevice.description>
+  <CreateNaniteStorageDevice.jobString>делает часть</CreateNaniteStorageDevice.jobString>
+
+  <CreateHighPowerTransformer.label>сделать биореактор</CreateHighPowerTransformer.label>
+  <CreateHighPowerTransformer.description>Сделать высокоэффективный компактный биореактор, который подходит для андроидов T3 и T4.</CreateHighPowerTransformer.description>
+  <CreateHighPowerTransformer.jobString>делает часть</CreateHighPowerTransformer.jobString>
+
+  <CreateHighPowerConverter.label>сделать мощный конвертер</CreateHighPowerConverter.label>
+  <CreateHighPowerConverter.description>Сделать мощный конвертер.</CreateHighPowerConverter.description>
+  <CreateHighPowerConverter.jobString>делает часть</CreateHighPowerConverter.jobString>
+
+  <CreateBasicRearCounterweight.label>сделать базовый задний противовес</CreateBasicRearCounterweight.label>
+  <CreateBasicRearCounterweight.description>Сделать базовый задний противовес.</CreateBasicRearCounterweight.description>
+  <CreateBasicRearCounterweight.jobString>делает часть</CreateBasicRearCounterweight.jobString>
+
+  <CreateAdvRearCounterweight.label>сделать гироскопический противовес</CreateAdvRearCounterweight.label>
+  <CreateAdvRearCounterweight.description>Сделать гироскопический противовес.</CreateAdvRearCounterweight.description>
+  <CreateAdvRearCounterweight.jobString>делает часть</CreateAdvRearCounterweight.jobString>
+
+  <CreateCrudeJawAndroid.label>сделать грубую челюсть</CreateCrudeJawAndroid.label>
+  <CreateCrudeJawAndroid.description>Сделать грубую челюсть.</CreateCrudeJawAndroid.description>
+  <CreateCrudeJawAndroid.jobString>делает часть</CreateCrudeJawAndroid.jobString>
+
+  <CreateAdvJawAndroid.label>сделать кибернетическую челюсть</CreateAdvJawAndroid.label>
+  <CreateAdvJawAndroid.description>Сделать кибернетическую челюсть.</CreateAdvJawAndroid.description>
+  <CreateAdvJawAndroid.jobString>делает часть</CreateAdvJawAndroid.jobString>
+
+  <CreatePositronMindImplant.label>сделать позитронную обмотку</CreatePositronMindImplant.label>
+  <CreatePositronMindImplant.description>Сделать позитронную обмотку.</CreatePositronMindImplant.description>
+  <CreatePositronMindImplant.jobString>делает часть</CreatePositronMindImplant.jobString>
+
+  <CreateSoldierMindImplant.label>сделать обновление солдата</CreateSoldierMindImplant.label>
+  <CreateSoldierMindImplant.description>Сделать обновление солдата.</CreateSoldierMindImplant.description>
+  <CreateSoldierMindImplant.jobString>делает часть</CreateSoldierMindImplant.jobString>
+
+  <CreateBuilderMindImplant.label>сделать хранилище чертежей</CreateBuilderMindImplant.label>
+  <CreateBuilderMindImplant.description>Сделать хранилище чертежей.</CreateBuilderMindImplant.description>
+  <CreateBuilderMindImplant.jobString>делает часть</CreateBuilderMindImplant.jobString>
+
+  <CreateSurgeonMindImplant.label>сделать имплантируемый трикодер</CreateSurgeonMindImplant.label>
+  <CreateSurgeonMindImplant.description>Сделать имплантируемый трикодер.</CreateSurgeonMindImplant.description>
+  <CreateSurgeonMindImplant.jobString>делает часть</CreateSurgeonMindImplant.jobString>
+
+  <CreateSpeedMindImplant.label>сделать нейронные магистрали</CreateSpeedMindImplant.label>
+  <CreateSpeedMindImplant.description>Сделать нейронные магистрали.</CreateSpeedMindImplant.description>
+  <CreateSpeedMindImplant.jobString>делает часть</CreateSpeedMindImplant.jobString>
+
+  <CreateMechanicMindImplant.label>сделать имплант инженерии</CreateMechanicMindImplant.label>
+  <CreateMechanicMindImplant.description>Сделать имплант инженерии.</CreateMechanicMindImplant.description>
+  <CreateMechanicMindImplant.jobString>делает часть</CreateMechanicMindImplant.jobString>
+
+  <CreateCookingMindImplant.label>сделать имплант кулинарии</CreateCookingMindImplant.label>
+  <CreateCookingMindImplant.description>Сделать имплант кулинарии.</CreateCookingMindImplant.description>
+  <CreateCookingMindImplant.jobString>делает часть</CreateCookingMindImplant.jobString>
+
+  <CreateCharismaMindImplant.label>сделать имплант харизмы</CreateCharismaMindImplant.label>
+  <CreateCharismaMindImplant.description>Сделать имплант харизмы.</CreateCharismaMindImplant.description>
+  <CreateCharismaMindImplant.jobString>делает часть</CreateCharismaMindImplant.jobString>
+
+  <CreateNegotiationMindImplant.label>сделать имплант переговорщика</CreateNegotiationMindImplant.label>
+  <CreateNegotiationMindImplant.description>Сделать имплант переговорщика.</CreateNegotiationMindImplant.description>
+  <CreateNegotiationMindImplant.jobString>делает часть</CreateNegotiationMindImplant.jobString>
+
+  <CreateAnimalMindImplant.label>сделать имплант животноводства</CreateAnimalMindImplant.label>
+  <CreateAnimalMindImplant.description>Сделать имплант животноводства.</CreateAnimalMindImplant.description>
+  <CreateAnimalMindImplant.jobString>делает часть</CreateAnimalMindImplant.jobString>
+
+  <CreateFarmingMindImplant.label>сделать имплант фермерства</CreateFarmingMindImplant.label>
+  <CreateFarmingMindImplant.description>Сделать имплант фермерства.</CreateFarmingMindImplant.description>
+  <CreateFarmingMindImplant.jobString>делает часть</CreateFarmingMindImplant.jobString>
+
+  <CreateUnskilledMindImplant.label>сделать базовый чип работы</CreateUnskilledMindImplant.label>
+  <CreateUnskilledMindImplant.description>Сделать базовый чип работы.</CreateUnskilledMindImplant.description>
+  <CreateUnskilledMindImplant.jobString>делает часть</CreateUnskilledMindImplant.jobString>
+
+  <CreateGeoMindImplant.label>сделать геологическое хранилище</CreateGeoMindImplant.label>
+  <CreateGeoMindImplant.description>Сделать геологическое хранилище.</CreateGeoMindImplant.description>
+  <CreateGeoMindImplant.jobString>делает часть</CreateGeoMindImplant.jobString>
+
+
+  <!-- Archotech -->
+
+  <CreateArchReplacementLeg.label>сделать кибернетическую ногу</CreateArchReplacementLeg.label>
+  <CreateArchReplacementLeg.description>Сделать кибернетическую ногу.</CreateArchReplacementLeg.description>
+  <CreateArchReplacementLeg.jobString>делает часть</CreateArchReplacementLeg.jobString>
+
+  <CreateArchReplacementArm.label>сделать кибернетическую руку</CreateArchReplacementArm.label>
+  <CreateArchReplacementArm.description>Сделать кибернетическую руку.</CreateArchReplacementArm.description>
+  <CreateArchReplacementArm.jobString>делает часть</CreateArchReplacementArm.jobString>
+
+  <CreateSecretHeatsink.label>сделать радиатор архотек</CreateSecretHeatsink.label>
+  <CreateSecretHeatsink.description>Сделать радиатор архотек.</CreateSecretHeatsink.description>
+  <CreateSecretHeatsink.jobString>делает часть</CreateSecretHeatsink.jobString>
+
+  <CreateMDEye.label>сделать датчик света архотек</CreateMDEye.label>
+  <CreateMDEye.description>Сделать датчик света архотек.</CreateMDEye.description>
+  <CreateMDEye.jobString>делает часть</CreateMDEye.jobString>
+
+  <CreateSecretCoolantPump.label>сделать насос хладагента архотек</CreateSecretCoolantPump.label>
+  <CreateSecretCoolantPump.description>Сделать насос хладагента архотек.</CreateSecretCoolantPump.description>
+  <CreateSecretCoolantPump.jobString>делает часть</CreateSecretCoolantPump.jobString>
+
+  <CreateSecretBatteryPack.label>сделать блок батарей архотек</CreateSecretBatteryPack.label>
+  <CreateSecretBatteryPack.description>Сделать блок батарей архотек.</CreateSecretBatteryPack.description>
+  <CreateSecretBatteryPack.jobString>делает часть</CreateSecretBatteryPack.jobString>
+
+  <CreateArchotechNanites.label>сделать хранилище механитов архотек</CreateArchotechNanites.label>
+  <CreateArchotechNanites.description>Сделать хранилище механитов архотек.</CreateArchotechNanites.description>
+  <CreateArchotechNanites.jobString>делает часть</CreateArchotechNanites.jobString>
+
+  <CreateMolecularDecomposer.label>сделать молекулярный деструктор архотек</CreateMolecularDecomposer.label>
+  <CreateMolecularDecomposer.description>Сделать молекулярный деструктор архотек.</CreateMolecularDecomposer.description>
+  <CreateMolecularDecomposer.jobString>делает часть</CreateMolecularDecomposer.jobString>
+
+  <CreateQuantumConverter.label>сделать квантовый преобразователь энергии</CreateQuantumConverter.label>
+  <CreateQuantumConverter.description>Сделать квантовый преобразователь энергии.</CreateQuantumConverter.description>
+  <CreateQuantumConverter.jobString>делает часть</CreateQuantumConverter.jobString>
+
+  <CreateHearingSensorAdv.label>сделать продвинутый слуховой датчик</CreateHearingSensorAdv.label>
+  <CreateHearingSensorAdv.description>Сделать продвинутый слуховой датчик.</CreateHearingSensorAdv.description>
+  <CreateHearingSensorAdv.jobString>делает часть</CreateHearingSensorAdv.jobString>
+
+  <CreateHearingSensorCrude.label>сделать грубый слуховой датчик</CreateHearingSensorCrude.label>
+  <CreateHearingSensorCrude.description>Сделать грубый слуховой датчик.</CreateHearingSensorCrude.description>
+  <CreateHearingSensorCrude.jobString>делает часть</CreateHearingSensorCrude.jobString>
+
+  <CreateHearingSensorArch.label>сделать слуховой датчик архотек</CreateHearingSensorArch.label>
+  <CreateHearingSensorArch.description>Сделать слуховой датчик архотек.</CreateHearingSensorArch.description>
+  <CreateHearingSensorArch.jobString>делает часть</CreateHearingSensorArch.jobString>
+
+  <CreateSmellingAdvS.label>сделать продвинутый датчик обоняния</CreateSmellingAdvS.label>
+  <CreateSmellingAdvS.description>Сделать продвинутый датчик обоняния.</CreateSmellingAdvS.description>
+  <CreateSmellingAdvS.jobString>делает часть</CreateSmellingAdvS.jobString>
+
+
+</LanguageData>

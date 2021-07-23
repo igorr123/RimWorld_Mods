@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Atlas_FactionChange>{0} был успешно перепрограммирован. Он теперь является частью колонии.</Atlas_FactionChange>
+  <LetterLabelAtlas_FactionChange>новый колонист</LetterLabelAtlas_FactionChange>
+
+  <Atlas_LossOfSelfWill>{0} лишился своей свободы воли. Таким образом, он теперь неспособен свободно мыслить или чувствовать эмоции и не будет взаимодействовать с другими колонистами как обычно. Добавляя к этому: он потерял все свои черты во время этого процесса. Став не более чем послушной машиной</Atlas_LossOfSelfWill>
+  <LetterLabelAtlas_LossOfSelfWill>бесплатный андроид</LetterLabelAtlas_LossOfSelfWill>
+
+  <Atlas_Mutation>{0} мутировал в фрактал. Чудовище из искаженной плоти, последствие фрактальной таблетки!</Atlas_Mutation>
+  <LetterLabelAtlas_Mutation>Колонист мутировал</LetterLabelAtlas_Mutation>
+
+  <Atlas_TraitReroll>{0} изменил свою индивидуальность, и его черты были перезаписаны.</Atlas_TraitReroll>
+  <LetterLabelAtlas_TraitReroll>Изменение личности андроида</LetterLabelAtlas_TraitReroll>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidT1RaiderFactionSpecific.label>андроид рейдер T1</AndroidT1RaiderFactionSpecific.label>
+  <AndroidT1RaiderFactionSpecific.labelPlural>андроиды рейдеры</AndroidT1RaiderFactionSpecific.labelPlural>
+  <AndroidT1RaiderFactionSpecific.labelMale>андроид рейдер T1</AndroidT1RaiderFactionSpecific.labelMale>
+  <AndroidT1RaiderFactionSpecific.labelMalePlural>андроиды рейдеры</AndroidT1RaiderFactionSpecific.labelMalePlural>
+  <AndroidT1RaiderFactionSpecific.labelFemale>андроид рейдер T1</AndroidT1RaiderFactionSpecific.labelFemale>
+  <AndroidT1RaiderFactionSpecific.labelFemalePlural>андроиды рейдеры</AndroidT1RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT1SlaveFactionSpecific.label>андроид раб Т1</AndroidT1SlaveFactionSpecific.label>
+  <AndroidT1SlaveFactionSpecific.labelPlural>порабощенный андроид</AndroidT1SlaveFactionSpecific.labelPlural>
+  <AndroidT1SlaveFactionSpecific.labelMale>андроид раб Т1</AndroidT1SlaveFactionSpecific.labelMale>
+  <AndroidT1SlaveFactionSpecific.labelMalePlural>порабощенный андроид</AndroidT1SlaveFactionSpecific.labelMalePlural>
+  <AndroidT1SlaveFactionSpecific.labelFemale>андроид раб Т1</AndroidT1SlaveFactionSpecific.labelFemale>
+  <AndroidT1SlaveFactionSpecific.labelFemalePlural>порабощенный андроид</AndroidT1SlaveFactionSpecific.labelFemalePlural>
+
+  <AndroidT2RaiderFactionSpecific.label>андроид рейдер T2</AndroidT2RaiderFactionSpecific.label>
+  <AndroidT2RaiderFactionSpecific.labelPlural>андроиды рейдеры</AndroidT2RaiderFactionSpecific.labelPlural>
+  <AndroidT2RaiderFactionSpecific.labelMale>андроид рейдер T2</AndroidT2RaiderFactionSpecific.labelMale>
+  <AndroidT2RaiderFactionSpecific.labelMalePlural>андроиды рейдеры</AndroidT2RaiderFactionSpecific.labelMalePlural>
+  <AndroidT2RaiderFactionSpecific.labelFemale>андроид рейдер T2</AndroidT2RaiderFactionSpecific.labelFemale>
+  <AndroidT2RaiderFactionSpecific.labelFemalePlural>андроиды рейдеры</AndroidT2RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT3RaiderFactionSpecific.label>андроид рейдер T3</AndroidT3RaiderFactionSpecific.label>
+  <AndroidT3RaiderFactionSpecific.labelPlural>андроиды рейдеры</AndroidT3RaiderFactionSpecific.labelPlural>
+  <AndroidT3RaiderFactionSpecific.labelMale>андроид рейдер T3</AndroidT3RaiderFactionSpecific.labelMale>
+  <AndroidT3RaiderFactionSpecific.labelMalePlural>андроиды рейдеры</AndroidT3RaiderFactionSpecific.labelMalePlural>
+  <AndroidT3RaiderFactionSpecific.labelFemale>андроид рейдер T3</AndroidT3RaiderFactionSpecific.labelFemale>
+  <AndroidT3RaiderFactionSpecific.labelFemalePlural>андроиды рейдеры</AndroidT3RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT4RaiderFactionSpecific.label>андроид рейдер T4</AndroidT4RaiderFactionSpecific.label>
+  <AndroidT4RaiderFactionSpecific.labelPlural>андроиды рейдеры</AndroidT4RaiderFactionSpecific.labelPlural>
+  <AndroidT4RaiderFactionSpecific.labelMale>андроид рейдер T4</AndroidT4RaiderFactionSpecific.labelMale>
+  <AndroidT4RaiderFactionSpecific.labelMalePlural>андроиды рейдеры</AndroidT4RaiderFactionSpecific.labelMalePlural>
+  <AndroidT4RaiderFactionSpecific.labelFemale>андроид рейдер T4</AndroidT4RaiderFactionSpecific.labelFemale>
+  <AndroidT4RaiderFactionSpecific.labelFemalePlural>андроиды рейдеры</AndroidT4RaiderFactionSpecific.labelFemalePlural>
+
+
+</LanguageData>
